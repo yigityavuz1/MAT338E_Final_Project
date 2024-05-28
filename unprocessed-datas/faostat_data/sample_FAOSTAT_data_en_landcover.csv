@@ -1,0 +1,721 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2005,2005,1000 ha,1383693.49,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2012,2012,1000 ha,2002117.19,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2004,2004,1000 ha,191135.52,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2006,2006,1000 ha,1591394.4,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2010,2010,1000 ha,189291.68,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2011,2011,1000 ha,49192.65,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,1995,1995,1000 ha,186700.84,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1999,1999,1000 ha,898536.49,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1993,1993,1000 ha,1436766.35,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,1997,1997,1000 ha,1608210.79,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6973,Multiple or layered crops,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2020,2020,1000 ha,1266814.0,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,1993,1993,1000 ha,180938.33,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2002,2002,1000 ha,1378070.16,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2018,2018,1000 ha,85559.11,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6971,Herbaceous crops,2019,2019,1000 ha,1487479.65,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6971,Herbaceous crops,2021,2021,1000 ha,1256149.43,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2014,2014,1000 ha,1906966.1,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,1992,1992,1000 ha,177925.05,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2019,2019,1000 ha,259017.17,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2020,2020,1000 ha,3047478.39,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2013,2013,1000 ha,1908026.15,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6975,Mangroves,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5013,Area from WorldCover,6982,Coastal water bodies and intertidal areas,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1998,1998,1000 ha,30430.95,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2000,2000,1000 ha,1782367.41,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2004,2004,1000 ha,259796.49,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2011,2011,1000 ha,1380742.11,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2007,2007,1000 ha,5022907.9,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2016,2016,1000 ha,4286913.18,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6983,Grassland,2017,2017,1000 ha,2969259.86,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2000,2000,1000 ha,31935.67,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2013,2013,1000 ha,3057585.19,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2006,2006,1000 ha,885464.72,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2008,2008,1000 ha,1794585.12,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2011,2011,1000 ha,381250.25,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6983,Grassland,2019,2019,1000 ha,2968397.71,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2019,2019,1000 ha,1604654.57,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2001,2001,1000 ha,81286.63,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1996,1996,1000 ha,1436766.31,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2009,2009,1000 ha,884923.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2007,2007,1000 ha,4296665.53,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,1997,1997,1000 ha,1886875.92,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2012,2012,1000 ha,1930359.07,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2001,2001,1000 ha,1380519.55,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,1999,1999,1000 ha,1949882.09,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6973,Multiple or layered crops,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2017,2017,1000 ha,258874.41,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2019,2019,1000 ha,4269518.91,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2021,2021,1000 ha,86385.45,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2018,2018,1000 ha,120752.47,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6973,Multiple or layered crops,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2009,2009,1000 ha,1257770.32,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2020,2020,1000 ha,1605658.84,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2003,2003,1000 ha,4303298.73,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2016,2016,1000 ha,1927194.54,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2017,2017,1000 ha,121423.68,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1994,1994,1000 ha,202550.18,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6974,Tree-covered areas,2020,2020,1000 ha,4295101.48,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2019,2019,1000 ha,890004.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2009,2009,1000 ha,18407.41,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2006,2006,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2014,2014,1000 ha,258128.65,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2020,2020,1000 ha,259147.8,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2012,2012,1000 ha,223967.26,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2012,2012,1000 ha,1240891.97,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2019,2019,1000 ha,2001338.89,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2021,2021,1000 ha,3062601.95,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2004,2004,1000 ha,2042883.55,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2003,2003,1000 ha,27947.88,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2007,2007,1000 ha,382341.82,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6973,Multiple or layered crops,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2008,2008,1000 ha,1938950.02,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6973,Multiple or layered crops,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2011,2011,1000 ha,1908897.31,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2019,2019,1000 ha,382895.82,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2009,2009,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2004,2004,1000 ha,1394133.58,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2005,2005,1000 ha,128217.14,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2015,2015,1000 ha,1263262.72,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2017,2017,1000 ha,57431.83,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,1997,1997,1000 ha,17892.78,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2002,2002,1000 ha,889779.94,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2003,2003,1000 ha,1949720.22,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2003,2003,1000 ha,138708.51,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6972,Woody crops,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,1995,1995,1000 ha,4333171.66,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,1994,1994,1000 ha,184844.08,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2001,2001,1000 ha,194404.8,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2014,2014,1000 ha,887263.96,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2015,2015,1000 ha,3028655.66,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2011,2011,1000 ha,189440.29,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2005,2005,1000 ha,1406579.89,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,1993,1993,1000 ha,1773014.06,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2002,2002,1000 ha,1398067.85,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2002,2002,1000 ha,259846.11,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,1993,1993,1000 ha,381995.44,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2018,2018,1000 ha,221343.01,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6980,Permanent snow and glaciers,2019,2019,1000 ha,195049.26,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2003,2003,1000 ha,204447.99,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2001,2001,1000 ha,1239750.31,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2007,2007,1000 ha,260143.69,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2005,2005,1000 ha,190886.73,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2004,2004,1000 ha,1592997.95,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2014,2014,1000 ha,84567.63,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2017,2017,1000 ha,1381116.87,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2013,2013,1000 ha,52424.65,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6973,Multiple or layered crops,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2016,2016,1000 ha,188524.5,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,1995,1995,1000 ha,1951041.95,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2020,2020,1000 ha,1904136.38,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2005,2005,1000 ha,383275.78,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2007,2007,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2016,2016,1000 ha,55902.44,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2019,2019,1000 ha,25069.53,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2006,2006,1000 ha,26516.24,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2010,2010,1000 ha,5030151.49,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2006,2006,1000 ha,4295951.94,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1994,1994,1000 ha,1436766.35,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2020,2020,1000 ha,60497.24,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2005,2005,1000 ha,42034.74,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2010,2010,1000 ha,4291234.98,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2006,2006,1000 ha,1382224.79,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2008,2008,1000 ha,5011272.47,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2016,2016,1000 ha,888135.78,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6971,Herbaceous crops,2020,2020,1000 ha,1262669.58,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6976,Shrub-covered areas,2015,2015,1000 ha,1141280.71,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2001,2001,1000 ha,4304155.34,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2015,2015,1000 ha,84868.48,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2015,2015,1000 ha,115321.04,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2015,2015,1000 ha,4279966.63,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2017,2017,1000 ha,3035312.87,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,1996,1996,1000 ha,4331517.13,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2008,2008,1000 ha,83072.66,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2017,2017,1000 ha,85312.24,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2008,2008,1000 ha,1911674.46,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2008,2008,1000 ha,1384625.52,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2002,2002,1000 ha,36312.41,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,1998,1998,1000 ha,1891920.61,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2010,2010,1000 ha,886472.65,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2010,2010,1000 ha,18408.57,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2016,2016,1000 ha,18466.53,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6983,Grassland,2016,2016,1000 ha,2979729.03,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2013,2013,1000 ha,1436766.22,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2008,2008,1000 ha,3048782.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2007,2007,1000 ha,1591140.76,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2013,2013,1000 ha,5060951.01,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2006,2006,1000 ha,1792879.07,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2004,2004,1000 ha,1384243.79,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2009,2009,1000 ha,1592030.96,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2003,2003,1000 ha,192251.06,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2016,2016,1000 ha,222064.26,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1998,1998,1000 ha,1436766.28,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6981,Inland water bodies,2015,2015,1000 ha,268204.38,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2018,2018,1000 ha,23032.45,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2018,2018,1000 ha,3034990.78,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2009,2009,1000 ha,381123.14,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2020,2020,1000 ha,1437574.48,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2010,2010,1000 ha,1594709.49,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,1993,1993,1000 ha,1949567.04,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1993,1993,1000 ha,26661.46,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2001,2001,1000 ha,231618.5,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2006,2006,1000 ha,18246.24,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2017,2017,1000 ha,1434386.18,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,1993,1993,1000 ha,1874887.4,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6975,Mangroves,2020,2020,1000 ha,15135.1,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2004,2004,1000 ha,4998437.86,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6973,Multiple or layered crops,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,1998,1998,1000 ha,384655.24,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2000,2000,1000 ha,385280.07,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,1996,1996,1000 ha,1883033.83,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,1998,1998,1000 ha,1607355.02,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2002,2002,1000 ha,5053683.63,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6980,Permanent snow and glaciers,2018,2018,1000 ha,194393.07,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6975,Mangroves,2021,2021,1000 ha,13692.56,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,1995,1995,1000 ha,1773177.14,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2006,2006,1000 ha,1252165.65,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2012,2012,1000 ha,888514.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2015,2015,1000 ha,381559.52,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2012,2012,1000 ha,115549.72,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2000,2000,1000 ha,198951.84,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2001,2001,1000 ha,5009675.78,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6981,Inland water bodies,2019,2019,1000 ha,276646.61,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2012,2012,1000 ha,27358.39,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2012,2012,1000 ha,1376693.01,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2007,2007,1000 ha,124242.39,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2014,2014,1000 ha,3033117.17,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2015,2015,1000 ha,258266.38,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2003,2003,1000 ha,1785577.63,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1994,1994,1000 ha,27407.55,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2009,2009,1000 ha,83321.09,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2021,2021,1000 ha,114981.8,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,1994,1994,1000 ha,381851.22,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2001,2001,1000 ha,1383499.49,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2017,2017,1000 ha,116618.47,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2001,2001,1000 ha,34144.61,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2002,2002,1000 ha,31083.13,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2004,2004,1000 ha,4295425.58,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6974,Tree-covered areas,2016,2016,1000 ha,4940705.0,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2014,2014,1000 ha,223503.11,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,1993,1993,1000 ha,1615640.71,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2002,2002,1000 ha,18103.98,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,1994,1994,1000 ha,1772929.11,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2007,2007,1000 ha,1911452.54,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2002,2002,1000 ha,1229181.23,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2018,2018,1000 ha,1384189.1,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2007,2007,1000 ha,18310.37,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2006,2006,1000 ha,3043624.27,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6978,Sparsely natural vegetated areas,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1999,1999,1000 ha,1436766.26,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2006,2006,1000 ha,82665.01,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2002,2002,1000 ha,193233.51,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2007,2007,1000 ha,217163.97,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2001,2001,1000 ha,1783117.29,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2008,2008,1000 ha,1257783.89,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,1998,1998,1000 ha,1775333.99,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2000,2000,1000 ha,1912522.39,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6971,Herbaceous crops,2015,2015,1000 ha,1480217.51,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2010,2010,1000 ha,1376527.43,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2015,2015,1000 ha,887459.96,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2016,2016,1000 ha,1801172.92,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2005,2005,1000 ha,18201.17,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2002,2002,1000 ha,384364.57,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,1994,1994,1000 ha,1949631.46,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2004,2004,1000 ha,18176.96,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2011,2011,1000 ha,83815.72,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6973,Multiple or layered crops,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2005,2005,1000 ha,260219.45,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1996,1996,1000 ha,28936.57,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2010,2010,1000 ha,1796442.89,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2004,2004,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2018,2018,1000 ha,1601209.13,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2012,2012,1000 ha,381213.87,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2015,2015,1000 ha,1436766.18,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2009,2009,1000 ha,2028053.91,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2018,2018,1000 ha,1267221.78,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2018,2018,1000 ha,1434386.18,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6972,Woody crops,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2005,2005,1000 ha,1943889.38,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2018,2018,1000 ha,1809570.72,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2017,2017,1000 ha,23032.45,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2011,2011,1000 ha,27905.3,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1996,1996,1000 ha,903097.83,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2019,2019,1000 ha,18459.65,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2011,2011,1000 ha,2008772.16,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,1996,1996,1000 ha,383112.28,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2013,2013,1000 ha,189528.99,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2019,2019,1000 ha,1270419.49,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2004,2004,1000 ha,135505.56,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2004,2004,1000 ha,26743.31,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6980,Permanent snow and glaciers,2015,2015,1000 ha,192310.43,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2003,2003,1000 ha,259867.87,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2007,2007,1000 ha,885602.77,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6975,Mangroves,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2018,2018,1000 ha,221646.01,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2020,2020,1000 ha,382913.86,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2009,2009,1000 ha,259487.99,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2015,2015,1000 ha,189141.2,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,1999,1999,1000 ha,1904727.62,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2008,2008,1000 ha,885481.61,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2013,2013,1000 ha,1800835.95,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6974,Tree-covered areas,2019,2019,1000 ha,4932680.02,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2004,2004,1000 ha,82213.63,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6981,Inland water bodies,2020,2020,1000 ha,360762.07,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2014,2014,1000 ha,5070697.69,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1997,1997,1000 ha,29666.18,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,1995,1995,1000 ha,1880752.49,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2002,2002,1000 ha,1784575.7,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6979,Terrestrial barren land,2016,2016,1000 ha,2038369.66,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,1996,1996,1000 ha,188216.02,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2012,2012,1000 ha,18383.99,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2010,2010,1000 ha,221759.58,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2011,2011,1000 ha,1254381.27,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2005,2005,1000 ha,1592084.24,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6973,Multiple or layered crops,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2008,2008,1000 ha,125942.79,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2004,2004,1000 ha,3016885.27,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2015,2015,1000 ha,1599657.08,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2017,2017,1000 ha,18466.15,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2004,2004,1000 ha,383571.21,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6978,Sparsely natural vegetated areas,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2014,2014,1000 ha,189071.54,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2020,2020,1000 ha,1815006.92,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,1998,1998,1000 ha,1951081.1,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1997,1997,1000 ha,902075.53,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2012,2012,1000 ha,5056586.77,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2007,2007,1000 ha,3038888.56,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2014,2014,1000 ha,1372168.76,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,1993,1993,1000 ha,17712.82,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2003,2003,1000 ha,1377975.72,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2010,2010,1000 ha,1934643.43,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2020,2020,1000 ha,18426.19,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6971,Herbaceous crops,2016,2016,1000 ha,1478079.59,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2019,2019,1000 ha,1382271.16,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6970,Artificial surfaces (including urban and associated areas),2020,2020,1000 ha,84338.04,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2012,2012,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6980,Permanent snow and glaciers,2016,2016,1000 ha,192930.45,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6972,Woody crops,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,1994,1994,1000 ha,4344201.76,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2009,2009,1000 ha,27658.57,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2021,2021,1000 ha,5029306.87,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2012,2012,1000 ha,258030.96,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2016,2016,1000 ha,121506.62,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6981,Inland water bodies,2016,2016,1000 ha,271886.81,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2002,2002,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2007,2007,1000 ha,1940479.07,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2000,2000,1000 ha,1598081.47,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,1992,1992,1000 ha,1615265.62,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2013,2013,1000 ha,4280927.66,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2018,2018,1000 ha,4278133.6,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6973,Multiple or layered crops,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2009,2009,1000 ha,1937543.9,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2013,2013,1000 ha,258095.79,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,1992,1992,1000 ha,1772765.34,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6982,Coastal water bodies and intertidal areas,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2010,2010,1000 ha,122224.87,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,1993,1993,1000 ha,4344166.6,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2016,2016,1000 ha,115626.16,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6980,Permanent snow and glaciers,2020,2020,1000 ha,222091.11,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2001,2001,1000 ha,2879023.6,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,1996,1996,1000 ha,17863.28,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2005,2005,1000 ha,1260804.99,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2004,2004,1000 ha,1267774.88,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2020,2020,1000 ha,86149.12,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6976,Shrub-covered areas,2019,2019,1000 ha,1120180.26,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2013,2013,1000 ha,18381.45,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,1999,1999,1000 ha,1603239.16,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2010,2010,1000 ha,83550.47,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2014,2014,1000 ha,1928533.63,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2019,2019,1000 ha,1914626.79,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2017,2017,1000 ha,4287812.52,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2014,2014,1000 ha,1255007.97,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2002,2002,1000 ha,203463.88,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2018,2018,1000 ha,1920058.88,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2006,2006,1000 ha,382960.8,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2011,2011,1000 ha,5049564.13,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6981,Inland water bodies,2021,2021,1000 ha,356737.09,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2011,2011,1000 ha,1368349.75,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2011,2011,1000 ha,1798553.71,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2001,2001,1000 ha,1596407.78,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2005,2005,1000 ha,3018879.93,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2019,2019,1000 ha,1903936.1,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2016,2016,1000 ha,23032.47,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2000,2000,1000 ha,893281.12,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2020,2020,1000 ha,222476.44,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2010,2010,1000 ha,48134.42,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1993,1993,1000 ha,202559.42,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2017,2017,1000 ha,382075.91,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2014,2014,1000 ha,1380646.23,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2013,2013,1000 ha,1380260.86,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,1997,1997,1000 ha,4327554.41,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,1995,1995,1000 ha,17819.95,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6976,Shrub-covered areas,2017,2017,1000 ha,1128943.25,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2019,2019,1000 ha,5037324.46,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6974,Tree-covered areas,2018,2018,1000 ha,4932890.16,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2014,2014,1000 ha,116816.16,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2019,2019,1000 ha,59682.34,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2010,2010,1000 ha,1909712.0,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2019,2019,1000 ha,3041122.45,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2020,2020,1000 ha,1912986.33,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2006,2006,1000 ha,214695.26,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2002,2002,1000 ha,153478.51,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1997,1997,1000 ha,200762.93,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1999,1999,1000 ha,198544.29,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2007,2007,1000 ha,82885.44,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1992,1992,1000 ha,1436766.36,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2019,2019,1000 ha,192990.91,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2007,2007,1000 ha,1794339.74,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2012,2012,1000 ha,4282110.27,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1995,1995,1000 ha,903207.47,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2001,2001,1000 ha,45964.82,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2020,2020,1000 ha,1386189.84,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2017,2017,1000 ha,188826.75,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6974,Tree-covered areas,2017,2017,1000 ha,4939053.2,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2020,2020,1000 ha,117590.4,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1998,1998,1000 ha,901603.64,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2003,2003,1000 ha,2051878.59,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2016,2016,1000 ha,5048290.17,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2004,2004,1000 ha,1791733.57,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,1994,1994,1000 ha,1615538.81,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,1995,1995,1000 ha,1614392.47,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2008,2008,1000 ha,259724.69,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2020,2020,1000 ha,25047.37,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2019,2019,1000 ha,1388109.36,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2011,2011,1000 ha,1932157.32,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2001,2001,1000 ha,1950050.64,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,1992,1992,1000 ha,381135.82,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6979,Terrestrial barren land,2018,2018,1000 ha,2017055.32,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2021,2021,1000 ha,25375.33,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2020,2020,1000 ha,4268269.01,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2018,2018,1000 ha,58399.48,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1995,1995,1000 ha,1436766.33,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2011,2011,1000 ha,18416.29,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2015,2015,1000 ha,120233.08,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2021,2021,1000 ha,1260124.79,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2010,2010,1000 ha,28033.16,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2009,2009,1000 ha,1910927.61,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2019,2019,1000 ha,222445.67,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2012,2012,1000 ha,3067028.85,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2005,2005,1000 ha,1792371.55,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,1999,1999,1000 ha,384945.9,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2019,2019,1000 ha,23032.46,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2008,2008,1000 ha,27468.15,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6972,Woody crops,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2019,2019,1000 ha,1434386.17,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6979,Terrestrial barren land,2017,2017,1000 ha,2033409.22,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2015,2015,1000 ha,1906775.97,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2009,2009,1000 ha,1383347.32,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2011,2011,1000 ha,887830.15,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2020,2020,1000 ha,5044640.9,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2007,2007,1000 ha,1254470.11,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6972,Woody crops,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2001,2001,1000 ha,384754.05,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2013,2013,1000 ha,381372.27,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2001,2001,1000 ha,2094808.04,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,1996,1996,1000 ha,1951504.02,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6973,Multiple or layered crops,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2020,2020,1000 ha,1379973.93,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2016,2016,1000 ha,1904089.66,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2016,2016,1000 ha,1597435.46,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2010,2010,1000 ha,1266423.28,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2021,2021,1000 ha,217540.16,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2005,2005,1000 ha,1916930.45,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,1998,1998,1000 ha,4318273.69,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2006,2006,1000 ha,5014132.08,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2018,2018,1000 ha,2009042.34,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2008,2008,1000 ha,217162.9,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2018,2018,1000 ha,116983.93,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2018,2018,1000 ha,5038962.76,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2005,2005,1000 ha,885649.0,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6981,Inland water bodies,2018,2018,1000 ha,275286.11,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2013,2013,1000 ha,1929956.83,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2013,2013,1000 ha,26931.51,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6972,Woody crops,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1994,1994,1000 ha,904843.17,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2018,2018,1000 ha,18465.99,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2021,2021,1000 ha,1380775.07,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2003,2003,1000 ha,1593328.48,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2008,2008,1000 ha,189466.52,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2016,2016,1000 ha,1275746.73,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1995,1995,1000 ha,201382.62,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2003,2003,1000 ha,82006.86,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5013,Area from WorldCover,6980,Permanent snow and glaciers,2021,2021,1000 ha,228576.33,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2015,2015,1000 ha,1379213.22,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2006,2006,1000 ha,1913580.48,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2017,2017,1000 ha,25246.89,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2001,2001,1000 ha,891261.78,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2009,2009,1000 ha,3038372.24,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2012,2012,1000 ha,84059.99,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2015,2015,1000 ha,55235.09,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2009,2009,1000 ha,1795220.25,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2017,2017,1000 ha,5048724.28,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2016,2016,1000 ha,1378223.51,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,1992,1992,1000 ha,4347206.8,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2008,2008,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2019,2019,1000 ha,118265.61,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6976,Shrub-covered areas,2021,2021,1000 ha,1013078.44,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1992,1992,1000 ha,904883.64,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2008,2008,1000 ha,2027426.1,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6973,Multiple or layered crops,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1995,1995,1000 ha,28171.0,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2003,2003,1000 ha,38431.83,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2006,2006,1000 ha,43322.36,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6971,Herbaceous crops,2018,2018,1000 ha,1485151.67,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6973,Multiple or layered crops,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6979,Terrestrial barren land,2015,2015,1000 ha,2044001.62,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,1992,1992,1000 ha,1949598.0,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2009,2009,1000 ha,1386307.34,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2016,2016,1000 ha,3035441.1,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2004,2004,1000 ha,1920286.14,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2010,2010,1000 ha,3044014.19,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,1999,1999,1000 ha,1780377.37,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,1992,1992,1000 ha,1877418.77,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2020,2020,1000 ha,209071.36,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,1994,1994,1000 ha,1870496.48,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6972,Woody crops,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2015,2015,1000 ha,1802264.89,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6975,Mangroves,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2016,2016,1000 ha,381905.58,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2005,2005,1000 ha,82419.16,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2015,2015,1000 ha,5064049.38,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2005,2005,1000 ha,211213.33,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2013,2013,1000 ha,1598824.19,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2000,2000,1000 ha,18040.09,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,1999,1999,1000 ha,196628.23,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6974,Tree-covered areas,2021,2021,1000 ha,4453366.83,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2015,2015,1000 ha,25802.37,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2017,2017,1000 ha,1904580.15,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,1996,1996,1000 ha,1772836.75,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2011,2011,1000 ha,4286131.7,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1998,1998,1000 ha,200344.43,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2008,2008,1000 ha,381930.85,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2009,2009,1000 ha,47016.95,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6980,Permanent snow and glaciers,2017,2017,1000 ha,193777.67,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2015,2015,1000 ha,23032.45,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2017,2017,1000 ha,2005738.1,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2017,2017,1000 ha,1801363.55,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2007,2007,1000 ha,1391702.07,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2009,2009,1000 ha,125335.2,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,1992,1992,1000 ha,17715.26,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2013,2013,1000 ha,223595.27,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2014,2014,1000 ha,381583.77,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6973,Multiple or layered crops,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2014,2014,1000 ha,18456.1,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2021,2021,1000 ha,1383727.18,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2003,2003,1000 ha,888562.88,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2009,2009,1000 ha,218906.0,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6983,Grassland,2018,2018,1000 ha,2972060.33,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2017,2017,1000 ha,1373703.86,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2011,2011,1000 ha,1596834.19,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2008,2008,1000 ha,45902.55,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6976,Shrub-covered areas,2018,2018,1000 ha,1123840.99,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1993,1993,1000 ha,904862.19,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2004,2004,1000 ha,1944932.32,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2010,2010,1000 ha,381195.76,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2017,2017,1000 ha,1925999.87,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2011,2011,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2007,2007,1000 ha,189855.32,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,1995,1995,1000 ha,382186.75,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,1998,1998,1000 ha,193053.42,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2003,2003,1000 ha,383167.94,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2004,2004,1000 ha,207178.81,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2003,2003,1000 ha,5002237.16,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2019,2019,1000 ha,85865.55,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2010,2010,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2007,2007,1000 ha,2025307.1,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2005,2005,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2007,2007,1000 ha,44653.88,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6979,Terrestrial barren land,2020,2020,1000 ha,2334432.37,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2000,2000,1000 ha,196732.57,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2002,2002,1000 ha,2949389.98,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2014,2014,1000 ha,1436766.18,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2017,2017,1000 ha,1273181.62,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2009,2009,1000 ha,188973.11,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2012,2012,1000 ha,189613.78,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2018,2018,1000 ha,258760.65,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2011,2011,1000 ha,223298.35,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6975,Mangroves,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,1997,1997,1000 ha,190137.92,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2020,2020,1000 ha,193169.63,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,2018,2018,1000 ha,382087.66,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2003,2003,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2001,2001,1000 ha,258246.86,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2016,2016,1000 ha,2003172.37,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2009,2009,1000 ha,4296936.65,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2008,2008,1000 ha,18375.36,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2016,2016,1000 ha,1377102.67,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2014,2014,1000 ha,2010087.19,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2013,2013,1000 ha,84287.04,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2001,2001,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2002,2002,1000 ha,1949405.84,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,1996,1996,1000 ha,1610887.15,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2012,2012,1000 ha,50509.59,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6981,Inland water bodies,2017,2017,1000 ha,274706.9,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2015,2015,1000 ha,222833.4,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2002,2002,1000 ha,1595246.5,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2003,2003,1000 ha,18153.15,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2020,2020,1000 ha,889080.29,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2017,2017,1000 ha,888101.36,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2014,2014,1000 ha,1599118.71,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2017,2017,1000 ha,220276.4,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2015,2015,1000 ha,18453.88,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2002,2002,1000 ha,2072293.05,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2003,2003,1000 ha,1400728.06,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2000,2000,1000 ha,1949613.21,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2015,2015,1000 ha,2011528.53,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2015,2015,1000 ha,1371847.52,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2014,2014,1000 ha,4281210.81,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2016,2016,1000 ha,85080.47,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2000,2000,1000 ha,1436766.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2016,2016,1000 ha,188655.06,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2007,2007,1000 ha,1381289.81,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5013,Area from WorldCover,6983,Grassland,2020,2020,1000 ha,3510214.57,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,2001,2001,1000 ha,18073.18,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6973,Multiple or layered crops,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2020,2020,1000 ha,1995393.75,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2006,2006,1000 ha,260193.9,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2005,2005,1000 ha,5006773.0,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2018,2018,1000 ha,1905111.03,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,1999,1999,1000 ha,4305955.19,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6973,Multiple or layered crops,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6971,Herbaceous crops,2017,2017,1000 ha,1477051.89,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2017,2017,1000 ha,206450.05,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2004,2004,1000 ha,40620.98,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,1994,1994,1000 ha,17710.17,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6983,Grassland,2021,2021,1000 ha,3544135.23,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6972,Woody crops,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2019,2019,1000 ha,230849.66,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2006,2006,1000 ha,1391859.52,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2012,2012,1000 ha,1598379.71,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2012,2012,1000 ha,1800166.02,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6983,Grassland,2015,2015,1000 ha,2994370.43,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1992,1992,1000 ha,25914.2,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2006,2006,1000 ha,1943000.15,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6973,Multiple or layered crops,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5007,Area from MODIS,6976,Shrub-covered areas,2013,2013,1000 ha,1376438.57,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2008,2008,1000 ha,1381998.6,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2021,2021,1000 ha,259217.41,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6976,Shrub-covered areas,2020,2020,1000 ha,1111620.23,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1992,1992,1000 ha,202176.67,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6979,Terrestrial barren land,2021,2021,1000 ha,2227050.2,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2005,2005,1000 ha,26306.52,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2011,2011,1000 ha,258405.34,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2004,2004,1000 ha,885942.15,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2016,2016,1000 ha,25190.25,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,1999,1999,1000 ha,18011.67,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2017,2017,1000 ha,1596998.33,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,1997,1997,1000 ha,1951312.64,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2013,2013,1000 ha,114226.07,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6973,Multiple or layered crops,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6972,Woody crops,2001,2001,1000 ha,201990.57,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2002,2002,1000 ha,1914609.47,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2013,2013,1000 ha,2003973.29,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2018,2018,1000 ha,1383581.55,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2008,2008,1000 ha,4296786.07,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2005,2005,1000 ha,2035014.59,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,1,World,5006,Area from CGLS,6974,Tree-covered areas,2015,2015,1000 ha,4946456.81,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2013,2013,1000 ha,888129.08,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2000,2000,1000 ha,4305196.38,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2012,2012,1000 ha,1908788.33,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2014,2014,1000 ha,26512.85,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2006,2006,1000 ha,190508.56,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2003,2003,1000 ha,2993892.36,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6981,Inland water bodies,1997,1997,1000 ha,383884.31,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2019,2019,1000 ha,1812740.2,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2002,2002,1000 ha,4302904.03,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2013,2013,1000 ha,1245055.57,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2007,2007,1000 ha,26656.04,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2021,2021,1000 ha,2004716.19,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6975,Mangroves,2018,2018,1000 ha,25433.06,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6979,Terrestrial barren land,2019,2019,1000 ha,2010726.49,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6974,Tree-covered areas,2009,2009,1000 ha,5018476.91,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6976,Shrub-covered areas,2008,2008,1000 ha,1591687.95,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2002,2002,1000 ha,81755.23,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6983,Grassland,2011,2011,1000 ha,3057943.03,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2003,2003,1000 ha,1915065.94,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2010,2010,1000 ha,1381117.06,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2018,2018,1000 ha,886781.93,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6980,Permanent snow and glaciers,2012,2012,1000 ha,1379954.99,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6974,Tree-covered areas,2005,2005,1000 ha,4295467.76,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2014,2014,1000 ha,54210.71,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1997,1997,1000 ha,1436766.3,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2016,2016,1000 ha,258834.86,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2019,2019,1000 ha,117316.85,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6981,Inland water bodies,2010,2010,1000 ha,258748.87,E,Estimated value
+LC,Land Cover,1,World,5013,Area from WorldCover,6970,Artificial surfaces (including urban and associated areas),2021,2021,1000 ha,95109.64,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2006,2006,1000 ha,2031734.74,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6976,Shrub-covered areas,2016,2016,1000 ha,1133391.12,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,2014,2014,1000 ha,1802086.33,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2015,2015,1000 ha,157073.72,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6975,Mangroves,1998,1998,1000 ha,17949.58,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2016,2016,1000 ha,1434386.18,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1999,1999,1000 ha,31153.33,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6971,Herbaceous crops,2001,2001,1000 ha,1913644.47,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2006,2006,1000 ha,123595.68,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6971,Herbaceous crops,2003,2003,1000 ha,1272747.69,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2011,2011,1000 ha,118515.46,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6979,Terrestrial barren land,2015,2015,1000 ha,1928657.92,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1996,1996,1000 ha,200999.65,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6983,Grassland,1997,1997,1000 ha,1773629.45,E,Estimated value
+LC,Land Cover,1,World,5007,Area from MODIS,6979,Terrestrial barren land,2010,2010,1000 ha,2017262.51,E,Estimated value
+LC,Land Cover,1,World,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2018,2018,1000 ha,190773.65,E,Estimated value
+LC,Land Cover,1,World,5006,Area from CGLS,6975,Mangroves,2018,2018,1000 ha,,O,Missing value

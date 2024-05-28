@@ -1,0 +1,1001 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01315,Figs,1978,1978,1000 Int$,642951,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.90,"Other fibre crops, raw, n.e.c.",1974,1974,1000 Int$,79584,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0115,Barley,2006,2006,1000 USD,19423910,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01709.01,Vetches,2005,2005,1000 Int$,404497,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01379.02,Kola nuts,2015,2015,1000 Int$,233464,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21124,"Meat of turkeys, fresh or chilled",1989,1989,1000 USD,7112831,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01211,Asparagus,1986,1986,1000 Int$,1621511,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01499.01,Karite nuts (sheanuts),2017,2017,1000 USD,102408,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0118,Millet,2006,2006,1000 Int$,9602286,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01709.02,Lupins,1961,1961,1000 Int$,188192,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01449.90,"Other oil seeds, n.e.c.",1995,1995,1000 Int$,711826,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01324,"Tangerines, mandarins, clementines",1975,1975,1000 Int$,3646440,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01374,"Hazelnuts, in shell",2013,2013,1000 USD,3526962,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01374,"Hazelnuts, in shell",1998,1998,1000 USD,3445402,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01192,Buckwheat,1981,1981,1000 USD,1064312,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2019,2019,1000 USD,2908047,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01290.90,"Other vegetables, fresh n.e.c.",1996,1996,1000 USD,27972731,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01211,Asparagus,2010,2010,1000 USD,8792125,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.02,Cranberries,2005,2005,1000 Int$,401175,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01243,"Broad beans and horse beans, green",2010,2010,1000 USD,875186,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01449.01,Melonseed,2016,2016,1000 Int$,274615,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0113,Rice,2002,2002,1000 USD,260289644,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21118.03i,"Meat of mules, fresh or chilled (indigenous)",2001,2001,1000 Int$,284645,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01657,"Ginger, raw",2003,2003,1000 USD,757377,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01658,"Vanilla, raw",1988,1988,1000 Int$,10141,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01701,"Beans, dry",1997,1997,1000 USD,12176117,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01253.02,"Onions and shallots, dry (excluding dehydrated)",2016,2016,1000 Int$,39495498,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01445,Sunflower seed,1965,1965,1000 USD,993175,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21117.02i,"Meat of other domestic camelids, fresh or chilled (indigenous)",2010,2010,1000 USD,37058,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01377,"Brazil nuts, in shell",1977,1977,1000 USD,66767,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01540,Yams,1978,1978,1000 USD,4494650,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0232,"Eggs from other birds in shell, fresh, n.e.c.",1977,1977,1000 Int$,3248258,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01376,"Walnuts, in shell",1993,1993,1000 Int$,3050510,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01809,Other sugar crops n.e.c.,1994,1994,1000 USD,16631,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.02,Cranberries,2006,2006,1000 Int$,449561,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01213,Cauliflowers and broccoli,2020,2020,1000 USD,13160770,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.06,"Agave fibres, raw, n.e.c.",1994,1994,1000 Int$,40417,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01630,Maté leaves,2019,2019,1000 USD,539635,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01377,"Brazil nuts, in shell",1967,1967,1000 Int$,29666,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02944,Silk-worm cocoons suitable for reeling,2007,2007,1000 Int$,2428862,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01345,Peaches and nectarines,2017,2017,1000 USD,18036629,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02212,Raw milk of buffalo,1990,1990,1000 USD,21938974,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01708,"Bambara beans, dry",2022,2022,1000 Int$,99838,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01192,Buckwheat,2008,2008,1000 USD,778510,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21124i,"Meat of turkeys, fresh or chilled (indigenous)",1973,1973,1000 USD,3241837,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01193,Fonio,2013,2013,1000 USD,137211,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02293,Raw milk of camel,2020,2020,1000 USD,1973347,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0111,Wheat,1997,1997,1000 Int$,145463066,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21115,"Meat of sheep, fresh or chilled",1991,1991,1000 USD,25228424,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01314,Dates,2011,2011,1000 USD,8801174,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01252,Green garlic,1966,1966,1000 USD,3871995,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01345,Peaches and nectarines,1986,1986,1000 USD,5977048,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02212,Raw milk of buffalo,1975,1975,1000 Int$,12421986,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01930.01,"Peppermint, spearmint",2006,2006,1000 USD,4009,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01194,Quinoa,2018,2018,1000 USD,169284,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0117,Oats,1964,1964,1000 USD,6311239,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21111.01,"Meat of cattle with the bone, fresh or chilled",2003,2003,1000 USD,249282574,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01379.02,Kola nuts,1966,1966,1000 Int$,156015,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0116,Rye,1962,1962,1000 USD,6102445,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01216,Artichokes,2016,2016,1000 Int$,931053,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01499.05,Kapok fruit,1997,1997,1000 Int$,17771,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",1980,1980,1000 USD,1086039,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01442,Mustard seed,1993,1993,1000 USD,96105,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01315,Figs,1978,1978,1000 USD,957929,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01229,Cantaloupes and other melons,1994,1994,1000 USD,4980331,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21117.01i,"Meat of camels, fresh or chilled (indigenous)",2020,2020,1000 USD,1432571,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01801,Sugar beet,1970,1970,1000 Int$,10564804,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01705,"Peas, dry",2010,2010,1000 Int$,3564705,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01345,Peaches and nectarines,1991,1991,1000 USD,5412898,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01441,Linseed,2019,2019,1000 USD,1121265,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01653,"Nutmeg, mace, cardamoms, raw",1987,1987,1000 USD,227105,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0116,Rye,1988,1988,1000 USD,5017041,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01191,Triticale,1982,1982,1000 USD,17809,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01253.01,"Onions and shallots, green",1997,1997,1000 USD,953166,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01922.01,"Jute, raw or retted",1961,1961,1000 Int$,1236521,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01329,"Other citrus fruit, n.e.c.",1997,1997,1000 USD,2566577,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01499.05,Kapok fruit,1963,1963,1000 USD,7472,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01215,Spinach,2015,2015,1000 Int$,10334526,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02910,Natural honey,1976,1976,1000 USD,2746258,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01193,Fonio,1996,1996,1000 Int$,162473,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01448,Poppy seed,2003,2003,1000 USD,196249,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01239.01,Okra,2019,2019,1000 USD,7740568,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0114,Sorghum,1967,1967,1000 USD,12215836,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01491.01,Oil palm fruit,2019,2019,1000 USD,53263700,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01640,Cocoa beans,1962,1962,1000 USD,1569180,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.90,Other berries and fruits of the genus vaccinium n.e.c.,1962,1962,1000 Int$,477738,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0142,"Groundnuts, excluding shelled",1970,1970,1000 USD,11042271,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01324,"Tangerines, mandarins, clementines",1985,1985,1000 Int$,4493436,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01510,Potatoes,2003,2003,1000 Int$,76969577,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01372,"Cashew nuts, in shell",1979,1979,1000 USD,418172,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0232,"Eggs from other birds in shell, fresh, n.e.c.",2021,2021,1000 USD,27806460,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01192,Buckwheat,2022,2022,1000 USD,788748,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01653,"Nutmeg, mace, cardamoms, raw",1994,1994,1000 USD,71299,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02292,Raw milk of goats,2015,2015,1000 USD,6055936,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01359.90,"Other fruits, n.e.c.",1980,1980,1000 USD,2032941,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.90,"Other fibre crops, raw, n.e.c.",1972,1972,1000 USD,38489,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21121,"Meat of chickens, fresh or chilled",2008,2008,1000 USD,150240485,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02944,Silk-worm cocoons suitable for reeling,1999,1999,1000 USD,724751,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01214,Lettuce and chicory,1983,1983,1000 Int$,3475841,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01344.01,Sour cherries,2014,2014,1000 USD,938465,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.02,Lupins,1998,1998,1000 USD,448923,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21117.01i,"Meat of camels, fresh or chilled (indigenous)",1981,1981,1000 Int$,626620,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01199.90,Cereals n.e.c.,2005,2005,1000 Int$,1181967,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01499.05,Kapok fruit,1999,1999,1000 USD,7208,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01355.02,Cranberries,2017,2017,1000 USD,351934,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.02,Lupins,2009,2009,1000 USD,279219,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0116,Rye,1987,1987,1000 Int$,8779895,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01372,"Cashew nuts, in shell",1982,1982,1000 USD,472004,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.01,Vetches,2021,2021,1000 USD,192375,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01449.01,Melonseed,1966,1966,1000 Int$,83952,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01970,Unmanufactured tobacco,2012,2012,1000 USD,20726485,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01656,"Cloves (whole stems), raw",1998,1998,1000 USD,59949,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01212,Cabbages,2008,2008,1000 USD,18441369,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21117.02i,"Meat of other domestic camelids, fresh or chilled (indigenous)",1998,1998,1000 USD,26923,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01640,Cocoa beans,2002,2002,1000 Int$,4853326,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0231,"Hen eggs in shell, fresh",1962,1962,1000 USD,19667523,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01351.01,Currants,1995,1995,1000 Int$,973011,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21118.01i,"Horse meat, fresh or chilled (indigenous)",2015,2015,1000 USD,2490295,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01313,Plantains and cooking bananas,1964,1964,1000 Int$,5222744,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01192,Buckwheat,2000,2000,1000 Int$,1207170,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21116i,"Meat of goat, fresh or chilled (indigenous)",1999,1999,1000 USD,6054921,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.07,"Abaca, manila hemp, raw",1990,1990,1000 Int$,88905,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0113,Rice,1996,1996,1000 USD,186881891,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21117.01i,"Meat of camels, fresh or chilled (indigenous)",1991,1991,1000 Int$,854627,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01699,"Other stimulant, spice and aromatic crops, n.e.c.",1964,1964,1000 USD,637692,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01379.01,Areca nuts,2022,2022,1000 Int$,6992589,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21170.02,"Game meat, fresh, chilled or frozen",2004,2004,1000 USD,2150416,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01355.02,Cranberries,1991,1991,1000 USD,227940,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01352,Kiwi fruit,1991,1991,1000 USD,821062,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21170.92,"Other meat n.e.c. (excluding mammals), fresh, chilled or frozen",1978,1978,1000 Int$,1448591,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01195,Canary seed,2008,2008,1000 USD,136674,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01214,Lettuce and chicory,2017,2017,1000 USD,16747293,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21115,"Meat of sheep, fresh or chilled",2015,2015,1000 USD,43552652,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02944,Silk-worm cocoons suitable for reeling,2003,2003,1000 Int$,1915814,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01318,Pineapples,1983,1983,1000 Int$,3518440,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0231,"Hen eggs in shell, fresh",1984,1984,1000 Int$,36386496,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01377,"Brazil nuts, in shell",1986,1986,1000 USD,52851,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01313,Plantains and cooking bananas,2011,2011,1000 USD,9878404,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01241.90,"Other beans, green",2009,2009,1000 USD,9346475,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01355.02,Cranberries,1979,1979,1000 USD,81278,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0117,Oats,1995,1995,1000 USD,3033898,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01242,"Peas, green",2003,2003,1000 USD,4217386,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01322,Lemons and limes,2020,2020,1000 USD,12807661,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01809,Other sugar crops n.e.c.,2022,2022,1000 USD,17448,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02910,Natural honey,2001,2001,1000 Int$,4469459,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0141,Soya beans,1977,1977,1000 Int$,28246823,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01701,"Beans, dry",2011,2011,1000 Int$,18414740,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01630,Maté leaves,2020,2020,1000 USD,240661,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01377,"Brazil nuts, in shell",1985,1985,1000 Int$,41227,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21124,"Meat of turkeys, fresh or chilled",2019,2019,1000 USD,11106441,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01510,Potatoes,2015,2015,1000 Int$,91363008,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0114,Sorghum,2007,2007,1000 USD,13475559,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01342.02,Quinces,1996,1996,1000 Int$,197121,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01323,Oranges,1981,1981,1000 USD,11736902,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01344.01,Sour cherries,2015,2015,1000 Int$,1055571,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01699,"Other stimulant, spice and aromatic crops, n.e.c.",2012,2012,1000 USD,2728260,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21111.01,"Meat of cattle with the bone, fresh or chilled",2020,2020,1000 USD,260708083,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21115i,"Meat of sheep, fresh or chilled (indigenous)",1980,1980,1000 Int$,25480970,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21170.02,"Game meat, fresh, chilled or frozen",2003,2003,1000 USD,2844455,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21170.01,"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen",2009,2009,1000 USD,65166,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01707,"Pigeon peas, dry",1977,1977,1000 Int$,1437612,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01353.01,Raspberries,1992,1992,1000 USD,376143,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01312,Bananas,1991,1991,1000 USD,8378014,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01329,"Other citrus fruit, n.e.c.",1985,1985,1000 Int$,1331497,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01801,Sugar beet,2004,2004,1000 USD,12392426,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01324,"Tangerines, mandarins, clementines",2001,2001,1000 Int$,9482241,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21119.01i,"Meat of other domestic rodents, fresh or chilled (indigenous)",1978,1978,1000 USD,21312,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01510,Potatoes,2017,2017,1000 USD,96217116,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21113.01i,"Meat of pig with the bone, fresh or chilled (indigenous)",1989,1989,1000 USD,132737617,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21122i,"Meat of ducks, fresh or chilled (indigenous)",1998,1998,1000 USD,3486442,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21117.01i,"Meat of camels, fresh or chilled (indigenous)",2005,2005,1000 Int$,1007376,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21117.01,"Meat of camels, fresh or chilled",1989,1989,1000 USD,820532,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21123,"Meat of geese, fresh or chilled",2005,2005,1000 USD,9127735,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01802,Sugar cane,1980,1980,1000 Int$,32967201,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01322,Lemons and limes,1996,1996,1000 Int$,5038708,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01195,Canary seed,1984,1984,1000 USD,48456,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02293,Raw milk of camel,2003,2003,1000 Int$,1730564,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0112,Maize (corn),1987,1987,1000 USD,89297318,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01374,"Hazelnuts, in shell",2008,2008,1000 USD,4519582,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.02,Cranberries,1994,1994,1000 Int$,286260,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21118.02,"Meat of asses, fresh or chilled",2019,2019,1000 USD,692014,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01442,Mustard seed,1996,1996,1000 Int$,338046,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02293,Raw milk of camel,1975,1975,1000 Int$,769751,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01221,Watermelons,1992,1992,1000 USD,10720236,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21170.01i,"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen (indigenous)",2018,2018,1000 Int$,79754,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0117,Oats,2013,2013,1000 USD,5189346,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01359.90,"Other fruits, n.e.c.",1986,1986,1000 Int$,5844744,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02293,Raw milk of camel,2007,2007,1000 Int$,2056449,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01375,"Pistachios, in shell",1978,1978,1000 USD,849330,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01371,"Almonds, in shell",1969,1969,1000 Int$,2865055,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21124i,"Meat of turkeys, fresh or chilled (indigenous)",1979,1979,1000 USD,4004598,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01313,Plantains and cooking bananas,2006,2006,1000 Int$,11796795,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0115,Barley,1987,1987,1000 USD,24120440,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21117.02i,"Meat of other domestic camelids, fresh or chilled (indigenous)",1988,1988,1000 USD,40425,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21119.01i,"Meat of other domestic rodents, fresh or chilled (indigenous)",1976,1976,1000 USD,21304,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01702,"Broad beans and horse beans, dry",2012,2012,1000 USD,2249942,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01317,Papayas,1962,1962,1000 USD,370380,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21121i,"Meat of chickens, fresh or chilled (indigenous)",1983,1983,1000 Int$,48967043,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.02,"Meat of asses, fresh or chilled",2001,2001,1000 USD,339540,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21113.01,"Meat of pig with the bone, fresh or chilled",2003,2003,1000 USD,119480542,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01199.90,Cereals n.e.c.,1994,1994,1000 Int$,485300,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02910,Natural honey,2019,2019,1000 USD,6572238,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.90,Other pulses n.e.c.,1981,1981,1000 USD,2123082,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01235,"Pumpkins, squash and gourds",1966,1966,1000 Int$,1729671,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01441,Linseed,2010,2010,1000 USD,821920,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01640,Cocoa beans,1970,1970,1000 Int$,2271138,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01199.90,Cereals n.e.c.,1984,1984,1000 USD,42164,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01349.10,Other pome fruits,2010,2010,1000 Int$,29454,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01254,Leeks and other alliaceous vegetables,2011,2011,1000 USD,2058661,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01442,Mustard seed,1994,1994,1000 USD,356787,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2011,2011,1000 Int$,1317537,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01345,Peaches and nectarines,1973,1973,1000 Int$,4225736,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2021,2021,1000 USD,35341079,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.02,"True hemp, raw or retted",1991,1991,1000 Int$,38051,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01373,"Chestnuts, in shell",1988,1988,1000 USD,1304249,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01447,Castor oil seeds,2015,2015,1000 USD,950549,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01707,"Pigeon peas, dry",1993,1993,1000 USD,1747860,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01355.01,Blueberries,1974,1974,1000 USD,136495,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01375,"Pistachios, in shell",1991,1991,1000 Int$,2058636,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.03i,"Meat of mules, fresh or chilled (indigenous)",2001,2001,1000 USD,147423,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01321,Pomelos and grapefruits,1973,1973,1000 Int$,1516550,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02960.01,Beeswax,2009,2009,1000 USD,87784,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01921.01,"Seed cotton, unginned",2009,2009,1000 USD,55391279,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0112,Maize (corn),2006,2006,1000 USD,115471372,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21112i,"Meat of buffalo, fresh or chilled (indigenous)",1986,1986,1000 USD,5463141,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01232,Cucumbers and gherkins,2002,2002,1000 USD,22058593,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01239.01,Okra,1997,1997,1000 USD,2846495,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01550,Taro,2022,2022,1000 USD,4298482,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01344.02,Cherries,2005,2005,1000 USD,3531530,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01970,Unmanufactured tobacco,1976,1976,1000 Int$,12839887,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01221,Watermelons,1973,1973,1000 USD,6197998,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0118,Millet,1996,1996,1000 USD,8426439,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01922.02,"Kenaf, and other textile bast fibres, raw or retted",2012,2012,1000 USD,105113,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01359.02,Cashewapple,1993,1993,1000 USD,267788,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01499.01,Karite nuts (sheanuts),2016,2016,1000 USD,208189,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0114,Sorghum,1985,1985,1000 Int$,16850039,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21118.01,"Horse meat, fresh or chilled",1997,1997,1000 USD,2911305,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01351.01,Currants,1973,1973,1000 Int$,585940,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.03i,"Meat of mules, fresh or chilled (indigenous)",1993,1993,1000 USD,77796,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01232,Cucumbers and gherkins,1993,1993,1000 USD,11162866,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01620,Tea leaves,1991,1991,1000 Int$,20205508,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01314,Dates,1983,1983,1000 Int$,2610488,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.03,"Meat of mules, fresh or chilled",1999,1999,1000 USD,121177,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01371,"Almonds, in shell",1993,1993,1000 USD,2010864,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01232,Cucumbers and gherkins,2000,2000,1000 Int$,14193394,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01657,"Ginger, raw",1983,1983,1000 Int$,311672,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01449.02,Hempseed,1988,1988,1000 USD,150233,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01491.01,Oil palm fruit,1994,1994,1000 Int$,7997699,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01705,"Peas, dry",1965,1965,1000 USD,3395839,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01460,"Coconuts, in shell",1995,1995,1000 Int$,8257706,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01970,Unmanufactured tobacco,1986,1986,1000 USD,18368032,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01318,Pineapples,2016,2016,1000 USD,10520183,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21118.02i,"Meat of asses, fresh or chilled (indigenous)",1992,1992,1000 USD,1060770,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01290.90,"Other vegetables, fresh n.e.c.",2010,2010,1000 Int$,77261003,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21113.01i,"Meat of pig with the bone, fresh or chilled (indigenous)",2009,2009,1000 USD,214965482,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01510,Potatoes,1989,1989,1000 USD,50797209,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01550,Taro,2010,2010,1000 Int$,3694485,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21123,"Meat of geese, fresh or chilled",1998,1998,1000 USD,2322407,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21170.02,"Game meat, fresh, chilled or frozen",1993,1993,1000 USD,2231850,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01342.01,Pears,1966,1966,1000 USD,5384128,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01706,"Cow peas, dry",2013,2013,1000 USD,2295891,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01243,"Broad beans and horse beans, green",1970,1970,1000 Int$,323536,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01930.01,"Peppermint, spearmint",1982,1982,1000 USD,17426,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01449.01,Melonseed,1972,1972,1000 Int$,95416,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01193,Fonio,1994,1994,1000 USD,58415,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01448,Poppy seed,1996,1996,1000 USD,50307,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01317,Papayas,1985,1985,1000 USD,855077,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.02,"True hemp, raw or retted",1989,1989,1000 Int$,54109,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01243,"Broad beans and horse beans, green",2015,2015,1000 USD,836706,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21117.01,"Meat of camels, fresh or chilled",2019,2019,1000 USD,1502653,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21170.02,"Game meat, fresh, chilled or frozen",2008,2008,1000 USD,3552244,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21118.03i,"Meat of mules, fresh or chilled (indigenous)",1985,1985,1000 Int$,84647,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0117,Oats,2015,2015,1000 USD,3570006,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01235,"Pumpkins, squash and gourds",2022,2022,1000 USD,9103747,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.02,Cranberries,2022,2022,1000 Int$,640617,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0112,Maize (corn),1985,1985,1000 Int$,97460802,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01195,Canary seed,1999,1999,1000 USD,36280,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.05,"Sisal, raw",1977,1977,1000 USD,316091,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.04,"Ramie, raw or retted",1978,1978,1000 Int$,19976,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01704,"Lentils, dry",1986,1986,1000 USD,1766780,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2017,2017,1000 Int$,1596862,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01211,Asparagus,2018,2018,1000 USD,13017713,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0232,"Eggs from other birds in shell, fresh, n.e.c.",2008,2008,1000 USD,24216483,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01359.90,"Other fruits, n.e.c.",2004,2004,1000 Int$,10105904,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21117.01i,"Meat of camels, fresh or chilled (indigenous)",1968,1968,1000 USD,307286,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02291,Raw milk of sheep,2015,2015,1000 USD,5359068,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01317,Papayas,2012,2012,1000 Int$,4353958,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01322,Lemons and limes,2013,2013,1000 USD,9482892,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01530,Sweet potatoes,2000,2000,1000 USD,39055064,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21122i,"Meat of ducks, fresh or chilled (indigenous)",1985,1985,1000 USD,2147422,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.02,"True hemp, raw or retted",1980,1980,1000 Int$,93519,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01706,"Cow peas, dry",2014,2014,1000 USD,1548502,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01930.02,"Pyrethrum, dried flowers",2010,2010,1000 USD,1369,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01253.01,"Onions and shallots, green",1963,1963,1000 USD,701220,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01655,"Cinnamon and cinnamon-tree flowers, raw",1992,1992,1000 Int$,184856,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01704,"Lentils, dry",1983,1983,1000 USD,1250488,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.03i,"Meat of mules, fresh or chilled (indigenous)",2000,2000,1000 USD,126623,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01233,Eggplants (aubergines),1999,1999,1000 Int$,7666664,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01359.90,"Other fruits, n.e.c.",2000,2000,1000 USD,6752155,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01324,"Tangerines, mandarins, clementines",1995,1995,1000 Int$,7307979,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0114,Sorghum,2005,2005,1000 USD,12005171,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01449.01,Melonseed,2021,2021,1000 USD,150729,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01321,Pomelos and grapefruits,2022,2022,1000 Int$,3937439,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21115i,"Meat of sheep, fresh or chilled (indigenous)",2016,2016,1000 Int$,42962630,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.90,Other berries and fruits of the genus vaccinium n.e.c.,1975,1975,1000 Int$,503245,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01373,"Chestnuts, in shell",2007,2007,1000 USD,1785976,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01653,"Nutmeg, mace, cardamoms, raw",1986,1986,1000 USD,215836,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01540,Yams,1979,1979,1000 USD,4302013,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01659,Hop cones,2022,2022,1000 USD,1075490,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.01i,"Horse meat, fresh or chilled (indigenous)",2006,2006,1000 USD,2012225,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01620,Tea leaves,2019,2019,1000 USD,78391832,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.02,Lupins,1980,1980,1000 USD,56438,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01449.90,"Other oil seeds, n.e.c.",1982,1982,1000 Int$,584069,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01343,Apricots,1992,1992,1000 USD,935156,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01191,Triticale,2001,2001,1000 USD,1008382,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2008,2008,1000 USD,797393,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0115,Barley,2007,2007,1000 Int$,25591701,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01701,"Beans, dry",2010,2010,1000 USD,15494932,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01243,"Broad beans and horse beans, green",2008,2008,1000 USD,793802,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01809,Other sugar crops n.e.c.,2008,2008,1000 USD,21291,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01193,Fonio,2011,2011,1000 USD,144686,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01809,Other sugar crops n.e.c.,1990,1990,1000 Int$,30636,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01449.90,"Other oil seeds, n.e.c.",2009,2009,1000 Int$,1203014,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0116,Rye,1994,1994,1000 USD,5685231,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0114,Sorghum,1974,1974,1000 USD,13301944,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21118.01i,"Horse meat, fresh or chilled (indigenous)",1997,1997,1000 Int$,2240658,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01929.02,"True hemp, raw or retted",2005,2005,1000 USD,1069,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01311,Avocados,2011,2011,1000 Int$,3714994,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01359.01,Persimmons,2018,2018,1000 USD,2232667,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01199.90,Cereals n.e.c.,1979,1979,1000 Int$,391380,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01801,Sugar beet,1996,1996,1000 USD,13107140,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01233,Eggplants (aubergines),1992,1992,1000 Int$,3357692,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01450,Olives,2015,2015,1000 Int$,22270985,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01234,Tomatoes,2011,2011,1000 Int$,76251694,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01460,"Coconuts, in shell",2021,2021,1000 USD,12301207,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01322,Lemons and limes,2012,2012,1000 USD,9220697,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01377,"Brazil nuts, in shell",2020,2020,1000 Int$,46107,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2010,2010,1000 USD,758043,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01520.01,"Cassava, fresh",1967,1967,1000 USD,12296518,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01252,Green garlic,1993,1993,1000 USD,9169208,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01444,Sesame seed,2012,2012,1000 USD,3949455,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01312,Bananas,2017,2017,1000 USD,38564701,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01313,Plantains and cooking bananas,2014,2014,1000 Int$,14329954,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01449.02,Hempseed,2003,2003,1000 USD,738,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21117.02i,"Meat of other domestic camelids, fresh or chilled (indigenous)",1975,1975,1000 USD,46074,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02944,Silk-worm cocoons suitable for reeling,1977,1977,1000 Int$,1283882,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01254,Leeks and other alliaceous vegetables,2016,2016,1000 Int$,1999011,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01221,Watermelons,1974,1974,1000 USD,6059334,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01354,Strawberries,2015,2015,1000 USD,15535588,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01324,"Tangerines, mandarins, clementines",1966,1966,1000 USD,4746800,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01241.90,"Other beans, green",1993,1993,1000 Int$,2149477,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01449.01,Melonseed,1981,1981,1000 USD,49527,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21117.01i,"Meat of camels, fresh or chilled (indigenous)",1992,1992,1000 USD,346970,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01691,Chicory roots,2021,2021,1000 Int$,22702,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01343,Apricots,1972,1972,1000 USD,1201659,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01499.05,Kapok fruit,2016,2016,1000 USD,4661,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01290.01,Green corn (maize),1992,1992,1000 Int$,3416120,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21115,"Meat of sheep, fresh or chilled",2022,2022,1000 USD,50125167,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01640,Cocoa beans,1991,1991,1000 Int$,3711087,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01658,"Vanilla, raw",2001,2001,1000 USD,18206,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0142,"Groundnuts, excluding shelled",1986,1986,1000 Int$,15563775,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01930.02,"Pyrethrum, dried flowers",2016,2016,1000 USD,1209,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01349.20,Other stone fruits,2014,2014,1000 USD,5069342,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01447,Castor oil seeds,1985,1985,1000 Int$,607665,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21121i,"Meat of chickens, fresh or chilled (indigenous)",2020,2020,1000 USD,229650334,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02960.01,Beeswax,1967,1967,1000 USD,39238,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01656,"Cloves (whole stems), raw",2013,2013,1000 Int$,157788,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01235,"Pumpkins, squash and gourds",2003,2003,1000 USD,6843830,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01233,Eggplants (aubergines),1982,1982,1000 Int$,2605419,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01691,Chicory roots,1995,1995,1000 Int$,429088,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01449.90,"Other oil seeds, n.e.c.",2015,2015,1000 USD,817763,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01319,"Other tropical fruits, n.e.c.",2008,2008,1000 Int$,11063730,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01311,Avocados,2020,2020,1000 USD,6434923,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01213,Cauliflowers and broccoli,2018,2018,1000 USD,13089566,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01214,Lettuce and chicory,1975,1975,1000 Int$,2958170,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01658,"Vanilla, raw",1985,1985,1000 USD,3984,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0114,Sorghum,1966,1966,1000 USD,11670160,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01708,"Bambara beans, dry",1989,1989,1000 Int$,16792,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01215,Spinach,1992,1992,1000 USD,3996453,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01930.01,"Peppermint, spearmint",2003,2003,1000 USD,9443,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.07,"Abaca, manila hemp, raw",1983,1983,1000 Int$,111793,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01499.02,Tung nuts,2014,2014,1000 USD,216970,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01352,Kiwi fruit,2006,2006,1000 Int$,2328015,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01510,Potatoes,1982,1982,1000 Int$,66356768,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01701,"Beans, dry",1985,1985,1000 USD,12278297,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01290.01,Green corn (maize),2012,2012,1000 Int$,4906182,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02960.01,Beeswax,2000,2000,1000 USD,100456,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01239.01,Okra,1962,1962,1000 USD,1043292,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01229,Cantaloupes and other melons,2020,2020,1000 USD,12891954,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01359.90,"Other fruits, n.e.c.",2005,2005,1000 Int$,10776980,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0232,"Eggs from other birds in shell, fresh, n.e.c.",2009,2009,1000 Int$,15176795,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",1976,1976,1000 Int$,4538144,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01233,Eggplants (aubergines),2020,2020,1000 USD,22476925,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02291,Raw milk of sheep,2010,2010,1000 USD,5176996,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01212,Cabbages,1979,1979,1000 USD,8460140,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2012,2012,1000 USD,917136,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01691,Chicory roots,1992,1992,1000 USD,290651,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01311,Avocados,1980,1980,1000 USD,1483570,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01359.01,Persimmons,1992,1992,1000 Int$,490248,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01342.02,Quinces,2002,2002,1000 USD,116445,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01342.01,Pears,1979,1979,1000 USD,6332560,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01253.02,"Onions and shallots, dry (excluding dehydrated)",1999,1999,1000 USD,10136127,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01215,Spinach,2005,2005,1000 USD,9211555,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01215,Spinach,1998,1998,1000 USD,2717109,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01192,Buckwheat,2006,2006,1000 USD,522860,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01290.90,"Other vegetables, fresh n.e.c.",1968,1968,1000 USD,27230250,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01323,Oranges,1975,1975,1000 Int$,10536157,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01239.01,Okra,1998,1998,1000 Int$,4807011,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01449.90,"Other oil seeds, n.e.c.",1989,1989,1000 USD,676001,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01359.02,Cashewapple,2007,2007,1000 Int$,534541,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01344.01,Sour cherries,2015,2015,1000 USD,953377,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01701,"Beans, dry",1980,1980,1000 Int$,10451656,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01702,"Broad beans and horse beans, dry",1981,1981,1000 Int$,1370565,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01591,Yautia,1975,1975,1000 USD,48865,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0118,Millet,2013,2013,1000 Int$,7929737,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01620,Tea leaves,1993,1993,1000 USD,24256353,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21115,"Meat of sheep, fresh or chilled",1979,1979,1000 USD,18804699,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01316,"Mangoes, guavas and mangosteens",1979,1979,1000 Int$,8848736,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01318,Pineapples,2001,2001,1000 Int$,6325967,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01193,Fonio,2009,2009,1000 USD,125513,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01319,"Other tropical fruits, n.e.c.",2008,2008,1000 USD,9486599,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01441,Linseed,1978,1978,1000 USD,1085591,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01656,"Cloves (whole stems), raw",2007,2007,1000 USD,81753,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01195,Canary seed,2009,2009,1000 Int$,118662,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01234,Tomatoes,2005,2005,1000 USD,53652642,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01540,Yams,1997,1997,1000 USD,13432494,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02211,Raw milk of cattle,1979,1979,1000 Int$,173557852,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01447,Castor oil seeds,2012,2012,1000 USD,1155975,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0112,Maize (corn),1995,1995,1000 USD,71861806,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21113.01i,"Meat of pig with the bone, fresh or chilled (indigenous)",1976,1976,1000 USD,74297230,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21170.02,"Game meat, fresh, chilled or frozen",2005,2005,1000 USD,2971336,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.06,"Agave fibres, raw, n.e.c.",2017,2017,1000 USD,17668,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21170.92,"Other meat n.e.c. (excluding mammals), fresh, chilled or frozen",1975,1975,1000 Int$,1545953,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01655,"Cinnamon and cinnamon-tree flowers, raw",2003,2003,1000 USD,473040,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01342.01,Pears,2011,2011,1000 USD,28389184,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01352,Kiwi fruit,2010,2010,1000 USD,1731354,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01651,"Pepper (Piper spp.), raw",1993,1993,1000 USD,476959,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01510,Potatoes,1964,1964,1000 Int$,71246024,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01540,Yams,2000,2000,1000 Int$,10488887,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01375,"Pistachios, in shell",1963,1963,1000 USD,165922,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21124,"Meat of turkeys, fresh or chilled",1981,1981,1000 USD,4540008,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01610,"Coffee, green",1989,1989,1000 Int$,12345877,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01324,"Tangerines, mandarins, clementines",1972,1972,1000 Int$,3368307,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01252,Green garlic,1984,1984,1000 USD,6364107,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01970,Unmanufactured tobacco,1987,1987,1000 USD,19047928,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01234,Tomatoes,2006,2006,1000 Int$,62264382,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01243,"Broad beans and horse beans, green",2017,2017,1000 USD,814727,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01199.90,Cereals n.e.c.,1990,1990,1000 USD,52523,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01491.01,Oil palm fruit,2019,2019,1000 USD,37848425,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01499.05,Kapok fruit,2012,2012,1000 USD,5526,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.01,Blueberries,1978,1978,1000 Int$,161891,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01355.90,Other berries and fruits of the genus vaccinium n.e.c.,1995,1995,1000 USD,222778,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02291,Raw milk of sheep,2020,2020,1000 USD,5852221,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01375,"Pistachios, in shell",1984,1984,1000 USD,1416336,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01374,"Hazelnuts, in shell",2009,2009,1000 USD,1880790,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02291,Raw milk of sheep,2013,2013,1000 USD,5241468,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0231,"Hen eggs in shell, fresh",1997,1997,1000 Int$,57515102,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21114i,"Meat of rabbits and hares, fresh or chilled (indigenous)",2007,2007,1000 Int$,2538180,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01709.90,Other pulses n.e.c.,2011,2011,1000 Int$,2884639,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01316,"Mangoes, guavas and mangosteens",2005,2005,1000 USD,21105701,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01193,Fonio,1983,1983,1000 Int$,125094,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02212,Raw milk of buffalo,1971,1971,1000 Int$,11076420,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01341,Apples,2003,2003,1000 USD,32241057,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02293,Raw milk of camel,2001,2001,1000 USD,230586,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01311,Avocados,1987,1987,1000 USD,1781027,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01221,Watermelons,1973,1973,1000 Int$,5087177,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01802,Sugar cane,2021,2021,1000 Int$,83571998,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01701,"Beans, dry",1998,1998,1000 USD,11954356,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01510,Potatoes,2018,2018,1000 Int$,91102350,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2015,2015,1000 USD,1378662,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01379.01,Areca nuts,1999,1999,1000 USD,952978,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01318,Pineapples,1996,1996,1000 USD,4419992,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01591,Yautia,1995,1995,1000 Int$,207579,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01354,Strawberries,2013,2013,1000 USD,15975636,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0112,Maize (corn),1964,1964,1000 USD,38044643,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01213,Cauliflowers and broccoli,2011,2011,1000 Int$,10321045,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0115,Barley,2016,2016,1000 Int$,28464463,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0112,Maize (corn),1981,1981,1000 Int$,89681479,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01704,"Lentils, dry",2012,2012,1000 USD,2931780,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01372,"Cashew nuts, in shell",1993,1993,1000 USD,533683,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01921.01,"Seed cotton, unginned",2006,2006,1000 USD,40640808,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02212,Raw milk of buffalo,1992,1992,1000 USD,22749737,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01345,Peaches and nectarines,1981,1981,1000 Int$,4702729,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01212,Cabbages,2020,2020,1000 USD,18636609,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01199.90,Cereals n.e.c.,1988,1988,1000 Int$,365853,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.07,"Abaca, manila hemp, raw",1987,1987,1000 Int$,113013,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2007,2007,1000 USD,859302,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01329,"Other citrus fruit, n.e.c.",1984,1984,1000 Int$,1276088,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21124,"Meat of turkeys, fresh or chilled",2015,2015,1000 USD,11665755,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01345,Peaches and nectarines,2014,2014,1000 USD,20332844,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.04,"Ramie, raw or retted",1971,1971,1000 USD,47737,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02960.01,Beeswax,1989,1989,1000 USD,67899,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01315,Figs,2012,2012,1000 Int$,789612,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01510,Potatoes,1975,1975,1000 Int$,67668500,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02910,Natural honey,1973,1973,1000 Int$,3018706,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01324,"Tangerines, mandarins, clementines",2015,2015,1000 USD,18987356,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01640,Cocoa beans,1967,1967,1000 USD,1785777,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0231,"Hen eggs in shell, fresh",1970,1970,1000 USD,25884055,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01232,Cucumbers and gherkins,2005,2005,1000 USD,23537050,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01372,"Cashew nuts, in shell",1996,1996,1000 USD,700893,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01270,Mushrooms and truffles,1995,1995,1000 USD,7361482,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01313,Plantains and cooking bananas,2004,2004,1000 USD,6641659,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21122i,"Meat of ducks, fresh or chilled (indigenous)",2004,2004,1000 USD,4801607,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01253.02,"Onions and shallots, dry (excluding dehydrated)",1984,1984,1000 USD,8692246,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02910,Natural honey,2020,2020,1000 USD,6901840,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01346,Plums and sloes,1985,1985,1000 USD,3999100,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21116,"Meat of goat, fresh or chilled",1999,1999,1000 USD,6099237,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01242,"Peas, green",1996,1996,1000 Int$,5583580,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01354,Strawberries,2003,2003,1000 USD,7502617,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01346,Plums and sloes,1975,1975,1000 Int$,3088380,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01192,Buckwheat,1962,1962,1000 USD,752038,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01373,"Chestnuts, in shell",2017,2017,1000 USD,9448352,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01374,"Hazelnuts, in shell",1968,1968,1000 Int$,919211,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01655,"Cinnamon and cinnamon-tree flowers, raw",2008,2008,1000 Int$,522902,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01343,Apricots,1985,1985,1000 USD,1537747,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.01,"Horse meat, fresh or chilled",2005,2005,1000 USD,1864235,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01344.02,Cherries,1996,1996,1000 USD,2179786,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.06,"Agave fibres, raw, n.e.c.",1996,1996,1000 Int$,41374,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01376,"Walnuts, in shell",2008,2008,1000 USD,9320289,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01254,Leeks and other alliaceous vegetables,2013,2013,1000 Int$,2071644,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2012,2012,1000 USD,1779589,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01922.01,"Jute, raw or retted",1963,1963,1000 Int$,1112706,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01329,"Other citrus fruit, n.e.c.",1979,1979,1000 USD,1195391,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01707,"Pigeon peas, dry",2005,2005,1000 USD,1837249,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0111,Wheat,1971,1971,1000 Int$,82304740,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01922.01,"Jute, raw or retted",1987,1987,1000 Int$,1281411,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01234,Tomatoes,2010,2010,1000 Int$,73241181,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01234,Tomatoes,1970,1970,1000 USD,21383564,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01241.90,"Other beans, green",2006,2006,1000 USD,8720052,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01540,Yams,2007,2007,1000 USD,22632264,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01252,Green garlic,1961,1961,1000 USD,4954135,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01801,Sugar beet,1996,1996,1000 USD,12084007,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01449.90,"Other oil seeds, n.e.c.",1999,1999,1000 USD,306932,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0232,"Eggs from other birds in shell, fresh, n.e.c.",2019,2019,1000 USD,28128451,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01658,"Vanilla, raw",2012,2012,1000 USD,15847,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02941,"Shorn wool, greasy, including fleece-washed shorn wool",2005,2005,1000 Int$,8388110,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01620,Tea leaves,2010,2010,1000 USD,47311998,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01447,Castor oil seeds,1979,1979,1000 Int$,434508,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01344.02,Cherries,2008,2008,1000 USD,3768446,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01319,"Other tropical fruits, n.e.c.",1967,1967,1000 Int$,3364470,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01653,"Nutmeg, mace, cardamoms, raw",2009,2009,1000 USD,113142,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01530,Sweet potatoes,2002,2002,1000 Int$,28247056,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0232,"Eggs from other birds in shell, fresh, n.e.c.",1993,1993,1000 Int$,8839675,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.02i,"Meat of asses, fresh or chilled (indigenous)",2013,2013,1000 USD,1190912,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01373,"Chestnuts, in shell",2019,2019,1000 USD,13296427,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01251,Carrots and turnips,1996,1996,1000 USD,4249234,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01323,Oranges,1996,1996,1000 USD,17834445,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.90,Other berries and fruits of the genus vaccinium n.e.c.,1976,1976,1000 Int$,521427,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01708,"Bambara beans, dry",1963,1963,1000 USD,2987,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01216,Artichokes,2014,2014,1000 USD,1107095,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01499.01,Karite nuts (sheanuts),1982,1982,1000 Int$,123001,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01653,"Nutmeg, mace, cardamoms, raw",2014,2014,1000 USD,352772,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01950.01,Natural rubber in primary forms,2009,2009,1000 USD,12950593,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01199.90,Cereals n.e.c.,1986,1986,1000 USD,40017,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01346,Plums and sloes,2020,2020,1000 USD,9857777,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01195,Canary seed,1976,1976,1000 Int$,49178,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01234,Tomatoes,2000,2000,1000 USD,61286445,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.03i,"Meat of mules, fresh or chilled (indigenous)",1997,1997,1000 USD,122709,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01930.02,"Pyrethrum, dried flowers",1991,1991,1000 USD,25658,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01322,Lemons and limes,2007,2007,1000 USD,9970914,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01704,"Lentils, dry",2017,2017,1000 Int$,4870691,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0141,Soya beans,2015,2015,1000 USD,110716642,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",1990,1990,1000 Int$,7290235,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01922.02,"Kenaf, and other textile bast fibres, raw or retted",1976,1976,1000 Int$,571758,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0116,Rye,2006,2006,1000 USD,2459674,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21170.02,"Game meat, fresh, chilled or frozen",2021,2021,1000 USD,3300011,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01377,"Brazil nuts, in shell",1961,1961,1000 Int$,38580,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01290.01,Green corn (maize),2003,2003,1000 Int$,4737539,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01342.01,Pears,2007,2007,1000 USD,12292784,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02212,Raw milk of buffalo,1970,1970,1000 Int$,10477702,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01290.90,"Other vegetables, fresh n.e.c.",2016,2016,1000 USD,85923822,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01444,Sesame seed,2005,2005,1000 USD,1682938,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01254,Leeks and other alliaceous vegetables,1994,1994,1000 USD,1655274,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02211,Raw milk of cattle,1985,1985,1000 Int$,190396602,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02944,Silk-worm cocoons suitable for reeling,1968,1968,1000 USD,2825789,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01371,"Almonds, in shell",2018,2018,1000 USD,16143871,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01342.02,Quinces,1987,1987,1000 Int$,166379,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0114,Sorghum,1968,1968,1000 USD,11719154,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0113,Rice,2008,2008,1000 USD,301859130,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01346,Plums and sloes,1993,1993,1000 Int$,3548607,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01214,Lettuce and chicory,2012,2012,1000 USD,13146935,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01251,Carrots and turnips,2009,2009,1000 USD,11050751,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.90,"Other fibre crops, raw, n.e.c.",1994,1994,1000 Int$,103296,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0115,Barley,2019,2019,1000 USD,29237512,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01359.02,Cashewapple,1964,1964,1000 USD,66085,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01704,"Lentils, dry",1990,1990,1000 Int$,1752313,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01352,Kiwi fruit,2015,2015,1000 USD,1985625,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21124i,"Meat of turkeys, fresh or chilled (indigenous)",1996,1996,1000 USD,6124185,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0118,Millet,1977,1977,1000 USD,8361168,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01243,"Broad beans and horse beans, green",2014,2014,1000 USD,904581,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21116,"Meat of goat, fresh or chilled",1998,1998,1000 USD,17713415,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01317,Papayas,1997,1997,1000 USD,1405201,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01809,Other sugar crops n.e.c.,2012,2012,1000 USD,21194,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.05,"Sisal, raw",1963,1963,1000 USD,375468,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01707,"Pigeon peas, dry",2015,2015,1000 USD,2509926,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01359.90,"Other fruits, n.e.c.",2020,2020,1000 USD,14832463,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01530,Sweet potatoes,1977,1977,1000 USD,40882637,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01343,Apricots,2013,2013,1000 USD,3204499,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21118.03i,"Meat of mules, fresh or chilled (indigenous)",1999,1999,1000 Int$,251021,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01254,Leeks and other alliaceous vegetables,1980,1980,1000 USD,1228837,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01314,Dates,2021,2021,1000 USD,13273006,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01591,Yautia,2008,2008,1000 USD,63431,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01709.01,Vetches,1972,1972,1000 Int$,669137,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01709.90,Other pulses n.e.c.,1997,1997,1000 Int$,2756988,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01199.90,Cereals n.e.c.,2010,2010,1000 USD,1596406,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01930.01,"Peppermint, spearmint",1993,1993,1000 USD,1091,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21114i,"Meat of rabbits and hares, fresh or chilled (indigenous)",1963,1963,1000 Int$,936028,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01359.02,Cashewapple,2012,2012,1000 USD,295170,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01921.01,"Seed cotton, unginned",1991,1991,1000 USD,23965337,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01330,Grapes,2008,2008,1000 USD,59798744,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01345,Peaches and nectarines,1993,1993,1000 USD,5216769,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.01,"Horse meat, fresh or chilled",2018,2018,1000 USD,2364692,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01311,Avocados,1997,1997,1000 USD,2125947,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01254,Leeks and other alliaceous vegetables,1979,1979,1000 Int$,727192,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01704,"Lentils, dry",1989,1989,1000 USD,1444048,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",1969,1969,1000 Int$,1735264,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.90,Other pulses n.e.c.,1998,1998,1000 USD,2377233,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01930.02,"Pyrethrum, dried flowers",2009,2009,1000 USD,1531,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02910,Natural honey,2006,2006,1000 USD,4353160,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01377,"Brazil nuts, in shell",2003,2003,1000 USD,46262,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02293,Raw milk of camel,1970,1970,1000 USD,246357,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0111,Wheat,2002,2002,1000 USD,70668693,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01449.90,"Other oil seeds, n.e.c.",1991,1991,1000 USD,319768,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21118.02i,"Meat of asses, fresh or chilled (indigenous)",1980,1980,1000 USD,121537,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01343,Apricots,2006,2006,1000 USD,2023152,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01809,Other sugar crops n.e.c.,2020,2020,1000 Int$,36123,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01929.06,"Agave fibres, raw, n.e.c.",1996,1996,1000 USD,29556,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01324,"Tangerines, mandarins, clementines",1993,1993,1000 USD,5420202,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01354,Strawberries,2008,2008,1000 USD,13811664,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01540,Yams,2017,2017,1000 USD,28045050,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21113.01i,"Meat of pig with the bone, fresh or chilled (indigenous)",1988,1988,1000 USD,129807803,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01491.01,Oil palm fruit,2005,2005,1000 USD,10973271,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01640,Cocoa beans,1976,1976,1000 USD,1815378,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",1999,1999,1000 USD,1914334,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01312,Bananas,1969,1969,1000 Int$,11347201,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),03211,"Balata, gutta-percha, guayule, chicle and similar natural gums in primary forms or in plates, sheets or strip",1962,1962,1000 USD,5305,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01317,Papayas,1980,1980,1000 Int$,863845,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01449.90,"Other oil seeds, n.e.c.",2006,2006,1000 USD,957256,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01252,Green garlic,1989,1989,1000 Int$,4331024,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01930.01,"Peppermint, spearmint",2007,2007,1000 Int$,211198,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01356,Locust beans (carobs),2021,2021,1000 Int$,15168,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01342.02,Quinces,2007,2007,1000 USD,251219,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01659,Hop cones,1977,1977,1000 Int$,625130,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01655,"Cinnamon and cinnamon-tree flowers, raw",1966,1966,1000 USD,85080,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21112i,"Meat of buffalo, fresh or chilled (indigenous)",1991,1991,1000 USD,2903219,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01699,"Other stimulant, spice and aromatic crops, n.e.c.",2017,2017,1000 USD,4110416,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01699,"Other stimulant, spice and aromatic crops, n.e.c.",2004,2004,1000 Int$,1283128,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01460,"Coconuts, in shell",2016,2016,1000 USD,10284547,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01520.01,"Cassava, fresh",1983,1983,1000 Int$,18432648,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01232,Cucumbers and gherkins,1986,1986,1000 Int$,5916727,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01330,Grapes,2006,2006,1000 USD,46186258,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01356,Locust beans (carobs),1972,1972,1000 Int$,139816,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01216,Artichokes,2002,2002,1000 Int$,876401,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21170.92,"Other meat n.e.c. (excluding mammals), fresh, chilled or frozen",1988,1988,1000 Int$,1426501,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01651,"Pepper (Piper spp.), raw",2018,2018,1000 Int$,4421693,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01591,Yautia,1964,1964,1000 Int$,96513,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01699,"Other stimulant, spice and aromatic crops, n.e.c.",2010,2010,1000 USD,2283933,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01447,Castor oil seeds,2018,2018,1000 USD,826470,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01659,Hop cones,2017,2017,1000 USD,835978,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.04,"Ramie, raw or retted",1969,1969,1000 Int$,39356,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.02,"True hemp, raw or retted",1991,1991,1000 USD,288,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01379.02,Kola nuts,1976,1976,1000 USD,133874,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01359.90,"Other fruits, n.e.c.",1989,1989,1000 USD,3430996,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),03211,"Balata, gutta-percha, guayule, chicle and similar natural gums in primary forms or in plates, sheets or strip",1985,1985,1000 USD,5787,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01344.02,Cherries,1984,1984,1000 USD,3307174,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01329,"Other citrus fruit, n.e.c.",1969,1969,1000 USD,596005,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01449.90,"Other oil seeds, n.e.c.",1998,1998,1000 USD,335033,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01341,Apples,1997,1997,1000 USD,18965175,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01192,Buckwheat,1984,1984,1000 USD,1052019,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",1989,1989,1000 Int$,478727,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01355.02,Cranberries,2009,2009,1000 USD,397886,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01199.02,Mixed grain,1996,1996,1000 USD,934665,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01449.90,"Other oil seeds, n.e.c.",2021,2021,1000 Int$,1106109,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01315,Figs,1997,1997,1000 Int$,776839,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21115,"Meat of sheep, fresh or chilled",1994,1994,1000 USD,30369789,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01346,Plums and sloes,2012,2012,1000 Int$,6723061,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01359.90,"Other fruits, n.e.c.",1997,1997,1000 Int$,8623593,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01591,Yautia,1974,1974,1000 Int$,101444,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.90,"Other fibre crops, raw, n.e.c.",1976,1976,1000 USD,54108,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21117.01i,"Meat of camels, fresh or chilled (indigenous)",2009,2009,1000 USD,947349,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01252,Green garlic,1971,1971,1000 Int$,2277082,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01709.01,Vetches,1993,1993,1000 USD,221164,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01449.02,Hempseed,2015,2015,1000 USD,1173,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01703,"Chick peas, dry",2008,2008,1000 USD,5022855,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21121,"Meat of chickens, fresh or chilled",1972,1972,1000 USD,23901095,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.02,"True hemp, raw or retted",2002,2002,1000 USD,1277,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01448,Poppy seed,2014,2014,1000 USD,181057,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01444,Sesame seed,1993,1993,1000 Int$,2554594,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21118.03,"Meat of mules, fresh or chilled",2002,2002,1000 USD,383487,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.07,"Abaca, manila hemp, raw",1975,1975,1000 USD,162440,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01353.01,Raspberries,2012,2012,1000 Int$,1837255,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21118.03i,"Meat of mules, fresh or chilled (indigenous)",1977,1977,1000 USD,68811,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01323,Oranges,2010,2010,1000 USD,25290325,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21114,"Meat of rabbits and hares, fresh or chilled",2017,2017,1000 USD,2329715,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01930.01,"Peppermint, spearmint",2006,2006,1000 Int$,265254,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01349.10,Other pome fruits,2021,2021,1000 Int$,42173,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01214,Lettuce and chicory,1999,1999,1000 USD,7831547,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01375,"Pistachios, in shell",1978,1978,1000 Int$,658347,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21116i,"Meat of goat, fresh or chilled (indigenous)",1967,1967,1000 USD,4635483,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0112,Maize (corn),1961,1961,1000 Int$,41155507,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21113.01,"Meat of pig with the bone, fresh or chilled",2013,2013,1000 USD,316445378,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0116,Rye,2002,2002,1000 Int$,5653090,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01540,Yams,1961,1961,1000 Int$,2202425,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0115,Barley,2014,2014,1000 Int$,28307078,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01322,Lemons and limes,1989,1989,1000 USD,4099407,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01630,Maté leaves,1969,1969,1000 Int$,71689,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01373,"Chestnuts, in shell",1995,1995,1000 USD,2004712,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21170.92,"Other meat n.e.c. (excluding mammals), fresh, chilled or frozen",1996,1996,1000 Int$,1021521,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01239.01,Okra,1966,1966,1000 Int$,1254299,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0141,Soya beans,1985,1985,1000 USD,40680535,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0231,"Hen eggs in shell, fresh",1998,1998,1000 USD,41247607,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21113.01,"Meat of pig with the bone, fresh or chilled",1997,1997,1000 USD,190290223,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.04,"Ramie, raw or retted",1986,1986,1000 Int$,144099,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0112,Maize (corn),1973,1973,1000 USD,58189983,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01657,"Ginger, raw",2000,2000,1000 USD,570335,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",1962,1962,1000 USD,284023,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02910,Natural honey,2021,2021,1000 USD,7771510,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01701,"Beans, dry",2005,2005,1000 USD,13393421,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01354,Strawberries,2022,2022,1000 Int$,15621618,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01530,Sweet potatoes,1994,1994,1000 Int$,25912270,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01441,Linseed,1983,1983,1000 Int$,972649,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01355.01,Blueberries,2001,2001,1000 USD,432902,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01342.01,Pears,1986,1986,1000 USD,6992189,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01377,"Brazil nuts, in shell",2020,2020,1000 USD,52209,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01620,Tea leaves,2012,2012,1000 USD,54650936,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21170.01i,"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen (indigenous)",1973,1973,1000 USD,20720,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01323,Oranges,2018,2018,1000 USD,27140081,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01322,Lemons and limes,2004,2004,1000 USD,6711023,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0117,Oats,1997,1997,1000 Int$,5355188,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01691,Chicory roots,2002,2002,1000 USD,562625,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02944,Silk-worm cocoons suitable for reeling,1996,1996,1000 Int$,1350503,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01322,Lemons and limes,1994,1994,1000 USD,4360508,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01657,"Ginger, raw",2007,2007,1000 USD,1343674,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01540,Yams,2020,2020,1000 Int$,21560238,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01620,Tea leaves,1974,1974,1000 Int$,2880038,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01191,Triticale,2014,2014,1000 USD,3138765,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01243,"Broad beans and horse beans, green",1990,1990,1000 USD,489443,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01657,"Ginger, raw",2015,2015,1000 USD,2943025,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.90,Other pulses n.e.c.,1972,1972,1000 USD,2621160,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01344.02,Cherries,2012,2012,1000 USD,4545652,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01316,"Mangoes, guavas and mangosteens",1965,1965,1000 Int$,7216957,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01355.01,Blueberries,1968,1968,1000 USD,24919,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01235,"Pumpkins, squash and gourds",2014,2014,1000 Int$,7198352,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02960.01,Beeswax,1963,1963,1000 Int$,169699,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01444,Sesame seed,2003,2003,1000 USD,2739641,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0231,"Hen eggs in shell, fresh",1977,1977,1000 Int$,29388810,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21170.01i,"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen (indigenous)",2017,2017,1000 Int$,79154,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01709.90,Other pulses n.e.c.,2014,2014,1000 USD,3158846,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01211,Asparagus,1972,1972,1000 Int$,1168352,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.02,Lupins,2001,2001,1000 USD,343230,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01499.05,Kapok fruit,1967,1967,1000 USD,7257,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01530,Sweet potatoes,2008,2008,1000 Int$,21320023,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01252,Green garlic,2001,2001,1000 USD,4801164,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01691,Chicory roots,1979,1979,1000 USD,192069,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01445,Sunflower seed,1979,1979,1000 Int$,7446375,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01658,"Vanilla, raw",1967,1967,1000 Int$,3960,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0118,Millet,1989,1989,1000 USD,8017354,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01653,"Nutmeg, mace, cardamoms, raw",2009,2009,1000 USD,218823,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01659,Hop cones,1994,1994,1000 USD,791166,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01355.90,Other berries and fruits of the genus vaccinium n.e.c.,1993,1993,1000 USD,201971,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01235,"Pumpkins, squash and gourds",1976,1976,1000 USD,2819951,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01315,Figs,1973,1973,1000 USD,1078978,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01251,Carrots and turnips,2006,2006,1000 USD,9380541,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01704,"Lentils, dry",1979,1979,1000 Int$,877368,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01699,"Other stimulant, spice and aromatic crops, n.e.c.",1993,1993,1000 USD,1547017,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21112i,"Meat of buffalo, fresh or chilled (indigenous)",1980,1980,1000 Int$,5136169,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01312,Bananas,2008,2008,1000 Int$,34771180,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21117.02i,"Meat of other domestic camelids, fresh or chilled (indigenous)",1967,1967,1000 USD,47881,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01290.01,Green corn (maize),2012,2012,1000 USD,5285976,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.07,"Abaca, manila hemp, raw",1976,1976,1000 USD,174412,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01235,"Pumpkins, squash and gourds",2002,2002,1000 Int$,5472560,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21121i,"Meat of chickens, fresh or chilled (indigenous)",2012,2012,1000 Int$,179526048,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01691,Chicory roots,1990,1990,1000 USD,168043,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01323,Oranges,1999,1999,1000 USD,17795833,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01317,Papayas,1999,1999,1000 USD,2086635,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01313,Plantains and cooking bananas,1963,1963,1000 USD,2663296,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.02,Lupins,1964,1964,1000 USD,74668,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21118.03i,"Meat of mules, fresh or chilled (indigenous)",1964,1964,1000 USD,28439,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01341,Apples,2010,2010,1000 USD,40223074,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01254,Leeks and other alliaceous vegetables,2001,2001,1000 USD,1711966,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01353.01,Raspberries,2019,2019,1000 Int$,2792833,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01656,"Cloves (whole stems), raw",2015,2015,1000 Int$,199812,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01651,"Pepper (Piper spp.), raw",2005,2005,1000 Int$,2506999,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.02i,"Meat of asses, fresh or chilled (indigenous)",2020,2020,1000 USD,654847,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01199.02,Mixed grain,2013,2013,1000 USD,940474,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01445,Sunflower seed,1973,1973,1000 USD,2185578,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21123i,"Meat of geese, fresh or chilled (indigenous)",2010,2010,1000 USD,7010263,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01191,Triticale,1985,1985,1000 USD,106612,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01499.01,Karite nuts (sheanuts),2008,2008,1000 USD,479171,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01444,Sesame seed,1969,1969,1000 Int$,1924823,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),0111,Wheat,2000,2000,1000 USD,70254930,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.06,"Agave fibres, raw, n.e.c.",1996,1996,1000 USD,38094,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",1999,1999,1000 USD,26583463,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01316,"Mangoes, guavas and mangosteens",1986,1986,1000 Int$,10822893,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01699,"Other stimulant, spice and aromatic crops, n.e.c.",2013,2013,1000 USD,3428875,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01352,Kiwi fruit,1971,1971,1000 USD,3248,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01324,"Tangerines, mandarins, clementines",1965,1965,1000 USD,3743716,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01344.01,Sour cherries,1977,1977,1000 USD,428934,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.02,Lupins,1968,1968,1000 USD,64252,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01239.01,Okra,1976,1976,1000 USD,1882503,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01315,Figs,2016,2016,1000 Int$,805163,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01379.02,Kola nuts,1977,1977,1000 Int$,157739,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01653,"Nutmeg, mace, cardamoms, raw",2001,2001,1000 Int$,281073,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01329,"Other citrus fruit, n.e.c.",1990,1990,1000 Int$,1845944,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01215,Spinach,1998,1998,1000 Int$,2995001,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01345,Peaches and nectarines,1971,1971,1000 USD,5665753,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01691,Chicory roots,1999,1999,1000 USD,239571,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21123i,"Meat of geese, fresh or chilled (indigenous)",2012,2012,1000 Int$,7689385,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01343,Apricots,1987,1987,1000 Int$,1552178,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21118.03i,"Meat of mules, fresh or chilled (indigenous)",2006,2006,1000 USD,192115,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01709.02,Lupins,1999,1999,1000 USD,509301,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01448,Poppy seed,2021,2021,1000 Int$,44394,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01445,Sunflower seed,2016,2016,1000 USD,20086788,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01550,Taro,1963,1963,1000 Int$,1921816,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01342.01,Pears,2007,2007,1000 Int$,9125298,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21118.03,"Meat of mules, fresh or chilled",1989,1989,1000 USD,164391,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01243,"Broad beans and horse beans, green",2010,2010,1000 USD,956729,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0114,Sorghum,2001,2001,1000 USD,12314433,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21122i,"Meat of ducks, fresh or chilled (indigenous)",1980,1980,1000 Int$,1633002,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21115i,"Meat of sheep, fresh or chilled (indigenous)",2012,2012,1000 Int$,38941822,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01704,"Lentils, dry",2010,2010,1000 USD,3460272,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01214,Lettuce and chicory,1996,1996,1000 Int$,6072431,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01540,Yams,1999,1999,1000 USD,14965492,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21117.01i,"Meat of camels, fresh or chilled (indigenous)",1990,1990,1000 Int$,898721,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01620,Tea leaves,1972,1972,1000 USD,2772293,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01341,Apples,1974,1974,1000 USD,13845162,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01342.02,Quinces,1961,1961,1000 USD,143719,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02941,"Shorn wool, greasy, including fleece-washed shorn wool",1962,1962,1000 Int$,10218239,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01371,"Almonds, in shell",2003,2003,1000 Int$,8962581,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01375,"Pistachios, in shell",2005,2005,1000 Int$,3214557,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21116i,"Meat of goat, fresh or chilled (indigenous)",1971,1971,1000 USD,5097922,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01270,Mushrooms and truffles,1962,1962,1000 USD,860325,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01374,"Hazelnuts, in shell",1993,1993,1000 Int$,1635068,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01377,"Brazil nuts, in shell",1993,1993,1000 Int$,29620,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01701,"Beans, dry",1998,1998,1000 USD,7567859,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01448,Poppy seed,1983,1983,1000 USD,29718,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01345,Peaches and nectarines,1964,1964,1000 Int$,3451650,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21111.01,"Meat of cattle with the bone, fresh or chilled",1998,1998,1000 USD,120978241,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0113,Rice,2019,2019,1000 USD,328904665,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01199.02,Mixed grain,2002,2002,1000 USD,905973,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01342.02,Quinces,2004,2004,1000 Int$,235475,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21111.01,"Meat of cattle with the bone, fresh or chilled",2021,2021,1000 USD,295597235,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01449.01,Melonseed,2022,2022,1000 Int$,297632,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01657,"Ginger, raw",1964,1964,1000 Int$,69737,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01346,Plums and sloes,1971,1971,1000 Int$,3284001,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21114,"Meat of rabbits and hares, fresh or chilled",2000,2000,1000 USD,1249848,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01221,Watermelons,2015,2015,1000 Int$,23432383,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0114,Sorghum,1999,1999,1000 Int$,13038056,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01241.90,"Other beans, green",2009,2009,1000 Int$,6057453,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01930.01,"Peppermint, spearmint",2010,2010,1000 USD,5511,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01708,"Bambara beans, dry",1974,1974,1000 Int$,14139,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02211,Raw milk of cattle,1994,1994,1000 USD,123707118,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21123,"Meat of geese, fresh or chilled",2007,2007,1000 USD,10003666,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01342.01,Pears,1984,1984,1000 USD,6858370,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01520.01,"Cassava, fresh",1979,1979,1000 Int$,17395318,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01448,Poppy seed,1963,1963,1000 Int$,80670,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01530,Sweet potatoes,1991,1991,1000 USD,35254053,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01252,Green garlic,2000,2000,1000 USD,13375437,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02944,Silk-worm cocoons suitable for reeling,1965,1965,1000 USD,2390550,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21113.01i,"Meat of pig with the bone, fresh or chilled (indigenous)",1986,1986,1000 Int$,119081363,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01355.01,Blueberries,1988,1988,1000 USD,259875,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0232,"Eggs from other birds in shell, fresh, n.e.c.",1980,1980,1000 USD,3992782,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01351.02,Gooseberries,1995,1995,1000 USD,399831,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01290.90,"Other vegetables, fresh n.e.c.",2015,2015,1000 USD,90970791,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01801,Sugar beet,1997,1997,1000 USD,12464358,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01239.01,Okra,1995,1995,1000 USD,5302247,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01656,"Cloves (whole stems), raw",1999,1999,1000 USD,90244,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0117,Oats,1966,1966,1000 USD,6333984,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01253.01,"Onions and shallots, green",2014,2014,1000 USD,2292234,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01315,Figs,1970,1970,1000 Int$,876924,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01499.02,Tung nuts,2020,2020,1000 USD,199679,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01922.01,"Jute, raw or retted",1983,1983,1000 Int$,1170659,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01359.01,Persimmons,1964,1964,1000 Int$,383355,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01252,Green garlic,1969,1969,1000 Int$,2594688,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01314,Dates,1982,1982,1000 USD,2970726,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01344.01,Sour cherries,2010,2010,1000 USD,823556,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01447,Castor oil seeds,1977,1977,1000 Int$,355601,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01705,"Peas, dry",1988,1988,1000 Int$,5158624,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02212,Raw milk of buffalo,1999,1999,1000 USD,31954251,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01314,Dates,2008,2008,1000 USD,7895021,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21115,"Meat of sheep, fresh or chilled",1998,1998,1000 USD,15292775,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01213,Cauliflowers and broccoli,1968,1968,1000 USD,2483823,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01499.01,Karite nuts (sheanuts),1963,1963,1000 USD,49650,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01290.01,Green corn (maize),1962,1962,1000 Int$,1895828,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01442,Mustard seed,1963,1963,1000 Int$,192851,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01330,Grapes,1969,1969,1000 USD,45270712,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0113,Rice,2008,2008,1000 Int$,268202402,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01701,"Beans, dry",1987,1987,1000 Int$,11468531,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01446,Safflower seed,1975,1975,1000 Int$,414108,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01491.01,Oil palm fruit,2014,2014,1000 USD,47419651,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01802,Sugar cane,1971,1971,1000 USD,25170956,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21123i,"Meat of geese, fresh or chilled (indigenous)",1973,1973,1000 Int$,681310,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01499.02,Tung nuts,1970,1970,1000 USD,202364,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01491.01,Oil palm fruit,2010,2010,1000 USD,44711528,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21119.01,"Meat of other domestic rodents, fresh or chilled",2018,2018,1000 USD,18474,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01315,Figs,2005,2005,1000 Int$,814815,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",1963,1963,1000 USD,948458,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01449.02,Hempseed,1989,1989,1000 USD,68074,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.06,"Agave fibres, raw, n.e.c.",1977,1977,1000 USD,40142,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0112,Maize (corn),2003,2003,1000 Int$,129248525,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01950.01,Natural rubber in primary forms,1998,1998,1000 USD,3011016,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0113,Rice,2017,2017,1000 Int$,293703403,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01221,Watermelons,1988,1988,1000 Int$,8713583,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01701,"Beans, dry",2017,2017,1000 USD,18400820,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01930.01,"Peppermint, spearmint",2008,2008,1000 USD,645,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01691,Chicory roots,1970,1970,1000 Int$,245988,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01342.01,Pears,1984,1984,1000 Int$,4090926,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01709.01,Vetches,1994,1994,1000 Int$,391372,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01701,"Beans, dry",2014,2014,1000 Int$,19356823,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01640,Cocoa beans,2016,2016,1000 Int$,7030542,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01374,"Hazelnuts, in shell",2005,2005,1000 USD,3171732,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21170.02,"Game meat, fresh, chilled or frozen",1983,1983,1000 USD,1935115,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01215,Spinach,2017,2017,1000 Int$,11238345,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2018,2018,1000 USD,2463836,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01194,Quinoa,1999,1999,1000 USD,23093,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01610,"Coffee, green",1968,1968,1000 USD,6711721,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01930.02,"Pyrethrum, dried flowers",2013,2013,1000 Int$,12609,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01930.02,"Pyrethrum, dried flowers",1986,1986,1000 Int$,12705,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01315,Figs,1963,1963,1000 Int$,1143047,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01233,Eggplants (aubergines),1986,1986,1000 Int$,2925065,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0118,Millet,2014,2014,1000 Int$,8669198,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01241.90,"Other beans, green",1965,1965,1000 USD,2164992,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01709.01,Vetches,2016,2016,1000 Int$,346801,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01802,Sugar cane,2021,2021,1000 USD,88515539,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01449.02,Hempseed,1993,1993,1000 USD,4335,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01194,Quinoa,1967,1967,1000 USD,40963,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.07,"Abaca, manila hemp, raw",1978,1978,1000 USD,158764,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.90,"Other fibre crops, raw, n.e.c.",1981,1981,1000 Int$,98077,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21115,"Meat of sheep, fresh or chilled",1984,1984,1000 USD,22430745,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01232,Cucumbers and gherkins,2010,2010,1000 USD,30890931,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.06,"Agave fibres, raw, n.e.c.",1991,1991,1000 Int$,48943,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01216,Artichokes,1994,1994,1000 USD,904716,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),21123,"Meat of geese, fresh or chilled",1997,1997,1000 USD,1929950,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01199.90,Cereals n.e.c.,2012,2012,1000 USD,1536856,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01212,Cabbages,2010,2010,1000 USD,18740971,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01342.02,Quinces,1979,1979,1000 Int$,155242,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01253.02,"Onions and shallots, dry (excluding dehydrated)",2002,2002,1000 USD,20986304,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),0116,Rye,2006,2006,1000 Int$,3420552,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01251,Carrots and turnips,1990,1990,1000 USD,4473682,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01591,Yautia,1991,1991,1000 USD,36342,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01232,Cucumbers and gherkins,2015,2015,1000 USD,37077517,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01355.02,Cranberries,2008,2008,1000 USD,563706,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21170.02,"Game meat, fresh, chilled or frozen",2004,2004,1000 USD,2888964,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01499.01,Karite nuts (sheanuts),2004,2004,1000 USD,416059,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01214,Lettuce and chicory,2000,2000,1000 Int$,7287849,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01520.01,"Cassava, fresh",1997,1997,1000 Int$,23351411,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01499.05,Kapok fruit,1982,1982,1000 Int$,12094,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01930.02,"Pyrethrum, dried flowers",1978,1978,1000 Int$,18382,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01655,"Cinnamon and cinnamon-tree flowers, raw",1976,1976,1000 Int$,67818,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01195,Canary seed,2000,2000,1000 USD,35356,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21170.01,"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen",2009,2009,1000 USD,82643,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01376,"Walnuts, in shell",2020,2020,1000 Int$,10919853,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01444,Sesame seed,1996,1996,1000 Int$,3184350,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01372,"Cashew nuts, in shell",2015,2015,1000 Int$,3098131,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01658,"Vanilla, raw",1999,1999,1000 USD,9480,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01656,"Cloves (whole stems), raw",2021,2021,1000 Int$,200758,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01930.01,"Peppermint, spearmint",2012,2012,1000 USD,575,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21119.01,"Meat of other domestic rodents, fresh or chilled",1994,1994,1000 USD,21979,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01375,"Pistachios, in shell",1993,1993,1000 USD,3259495,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01329,"Other citrus fruit, n.e.c.",2014,2014,1000 USD,5870686,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01359.90,"Other fruits, n.e.c.",1971,1971,1000 Int$,3427340,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01704,"Lentils, dry",2013,2013,1000 Int$,3619701,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),02960.01,Beeswax,2009,2009,1000 USD,95150,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),0117,Oats,1978,1978,1000 USD,5305968,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",1982,1982,1000 USD,1899816,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01371,"Almonds, in shell",2015,2015,1000 USD,13199694,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01241.01,String beans,1962,1962,1000 USD,1677396,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01374,"Hazelnuts, in shell",2015,2015,1000 USD,3808660,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01356,Locust beans (carobs),1965,1965,1000 USD,198979,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02960.01,Beeswax,1991,1991,1000 USD,50553,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01699,"Other stimulant, spice and aromatic crops, n.e.c.",1963,1963,1000 Int$,435170,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01709.01,Vetches,1980,1980,1000 Int$,413175,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01199.02,Mixed grain,1963,1963,1000 USD,1192721,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01371,"Almonds, in shell",2020,2020,1000 USD,14820423,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01929.06,"Agave fibres, raw, n.e.c.",1973,1973,1000 USD,29945,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21117.02i,"Meat of other domestic camelids, fresh or chilled (indigenous)",1997,1997,1000 USD,34975,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01355.02,Cranberries,2011,2011,1000 Int$,508520,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01659,Hop cones,1996,1996,1000 Int$,748513,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),21115i,"Meat of sheep, fresh or chilled (indigenous)",2010,2010,1000 Int$,38450625,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01530,Sweet potatoes,1964,1964,1000 USD,35207700,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21124i,"Meat of turkeys, fresh or chilled (indigenous)",1978,1978,1000 USD,3688647,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01922.01,"Jute, raw or retted",1971,1971,1000 USD,683601,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01354,Strawberries,1966,1966,1000 USD,2785426,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),02960.01,Beeswax,2020,2020,1000 USD,47499,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21170.92,"Other meat n.e.c. (excluding mammals), fresh, chilled or frozen",1979,1979,1000 USD,444849,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.90,"Other fibre crops, raw, n.e.c.",1985,1985,1000 Int$,114223,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01520.01,"Cassava, fresh",2012,2012,1000 USD,40600710,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),02292,Raw milk of goats,2019,2019,1000 Int$,8479455,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01499.05,Kapok fruit,1998,1998,1000 USD,6959,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01450,Olives,1967,1967,1000 Int$,8036983,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01372,"Cashew nuts, in shell",1973,1973,1000 USD,331109,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),21123,"Meat of geese, fresh or chilled",1986,1986,1000 USD,1503082,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01653,"Nutmeg, mace, cardamoms, raw",1967,1967,1000 USD,101529,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01323,Oranges,1995,1995,1000 Int$,19070629,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01929.06,"Agave fibres, raw, n.e.c.",1961,1961,1000 Int$,21585,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01706,"Cow peas, dry",1998,1998,1000 Int$,1264351,E,Estimated value
+QV,Value of Agricultural Production,1,World,152,Gross Production Value (constant 2014-2016 thousand I$),01341,Apples,2016,2016,1000 Int$,40165144,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01706,"Cow peas, dry",1996,1996,1000 USD,917631,E,Estimated value
+QV,Value of Agricultural Production,1,World,58,Gross Production Value (constant 2014-2016 thousand US$),01372,"Cashew nuts, in shell",2014,2014,1000 USD,2154664,E,Estimated value
+QV,Value of Agricultural Production,1,World,57,Gross Production Value (current thousand US$),01344.01,Sour cherries,1993,1993,1000 USD,390082,E,Estimated value
